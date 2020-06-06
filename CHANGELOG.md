@@ -7,3 +7,4 @@
   - Section 1: Introduction
     - Welcome To The Course
     - How The Web Works (Summarized)
+    - The Roles Of HTML & CSS In Web Development
