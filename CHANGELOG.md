@@ -9,3 +9,5 @@
     - How The Web Works (Summarized)
     - The Roles Of HTML & CSS In Web Development
     - Getting Setup With Visual Studio Code
+  - Section 2: HTML Basics
+    - Section Intro
