@@ -6,3 +6,4 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 1: Introduction
     - Welcome To The Course
+    - How The Web Works (Summarized)
