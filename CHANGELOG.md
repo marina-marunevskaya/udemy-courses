@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 7, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 2: HTML Basics
+    - Create & Open HTML Pages
+- An example for Create & Open HTML Pages was added.
+
 ## June 6, 2020
 - The repository was created.
 - CHANGELOG.md, LICENSE and README.md files were added to the repository.
