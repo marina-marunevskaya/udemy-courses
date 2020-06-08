@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 2: HTML Basics
     - Setting Up Live Server (VSCode Extension)
+    - Meta Tags & Search Engines
 - An example for Setting Up Live Server (VSCode Extension) was added.
+- An example for Meta Tags & Search Engines was added.
 
 ## June 7, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
