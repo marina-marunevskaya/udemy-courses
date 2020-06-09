@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 2: HTML Basics</title>
+    </head>
+    <body>
+        <form action="action.php">
+            <!-- Text -->
+            <div>
+                <label for="fullName">Full Name</label><br>
+                <input type="text" id="fullName" name="fullName" value="Steve Mayers">
+            </div>
+            <!-- Email -->
+            <div>
+                <label for="email">Email</label><br>
+                <input type="email" id="email" name="email" placeholder="steve.mayers@mayersinc.com">
+            </div>
+            <!-- Textarea -->
+            <div>
+                <label for="comments">Additional comments</label><br>
+                <textarea id="comments" name="comments" cols="40" rows="10"></textarea>
+            </div>
+            <!-- Select -->
+            <div>
+                <label for="deliveryType">Delivery type</label>
+                <select id="deliveryType" name="deliveryType">
+                    <option value="fast">Fast</option>
+                    <option value="usual" selected>Usual</option>
+                    <option value="slow">Slow</option>
+                </select>
+            </div>
+            <!-- Number -->
+            <div>
+                <label for="boxWeight">Box weight (kg)</label><br>
+                <input type="number" id="boxWeight" name="boxWeight">
+            </div>
+            <!-- Date -->
+            <div>
+                <label for="deliveryDate">Delivery date</label><br>
+                <input type="date" id="deliveryDate" name="deliveryDate">
+            </div>
+            <!-- Radio -->
+            <div>
+                <label for="payment">Payment</label>
+                <input type="radio" id="payment" name="payment" value="online" checked> Online
+                <input type="radio" id="payment" name="payment" value="onDelivery"> On delivery
+                <input type="radio" id="payment" name="payment" value="credit"> Credit
+            </div>
+            <!-- Checkbox -->
+            <div>
+                <label for="options">Delivery options</label>
+                <input type="checkbox" id="options" name="options" value="callinadvance" checked> Call in advance
+                <input type="checkbox" id="options" name="options" value="noPackaging"> No packaging
+            </div>
+            <!-- Input submit -->
+            <input type="submit" value="Submit">
+            <!-- Button submit -->
+            <button type="submit">Submit</button>
+            <!-- Reset button -->
+            <button type="reset">Reset</button>
+        </form>
+    </body>
+</html>

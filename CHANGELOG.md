@@ -5,8 +5,10 @@
   - Section 2: HTML Basics
     - Links, Images & Attributes
     - Lists & Tables
+    - Forms & Input
 - An example for Links, Images & Attributes was added.
 - An example for Lists & Tables was added.
+- An example for Forms & Input was added.
 
 ## June 8, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
