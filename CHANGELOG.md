@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 9, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 2: HTML Basics
+    - Links, Images & Attributes
+- An example for Links, Images & Attributes was added.
+
 ## June 8, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 2: HTML Basics
