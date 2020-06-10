@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 10, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 2: HTML Basics
+    - Block & Inline Level Elements
+- An example for Block & Inline Level Elements was added.
+
 ## June 9, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 2: HTML Basics
