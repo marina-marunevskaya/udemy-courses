@@ -5,8 +5,10 @@
   - Section 2: HTML Basics
     - Block & Inline Level Elements
     - Divs & Spans, Classes & Ids
+    - HTML Entities
 - An example for Block & Inline Level Elements was added.
 - An example for Divs & Spans, Classes & Ids was added.
+- An example for HTML Entities was added.
 
 ## June 9, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
