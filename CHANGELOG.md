@@ -5,6 +5,8 @@
   - Section 2: HTML Basics
     - HTML5 Semantic Tags & Challenge
     - HTML5 Semantics Solution & Wrap Up
+  - Section 3: CSS Basics
+    - Section Intro
 - A challenge for HTML5 Semantic Tags & Challenge was done.
 
 ## June 10, 2020
