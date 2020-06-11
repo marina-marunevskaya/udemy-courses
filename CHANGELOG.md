@@ -4,6 +4,7 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 2: HTML Basics
     - HTML5 Semantic Tags & Challenge
+    - HTML5 Semantics Solution & Wrap Up
 - A challenge for HTML5 Semantic Tags & Challenge was done.
 
 ## June 10, 2020
