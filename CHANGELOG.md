@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 11, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 2: HTML Basics
+    - HTML5 Semantic Tags & Challenge
+- A challenge for HTML5 Semantic Tags & Challenge was done.
+
 ## June 10, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 2: HTML Basics
