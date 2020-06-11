@@ -7,7 +7,9 @@
     - HTML5 Semantics Solution & Wrap Up
   - Section 3: CSS Basics
     - Section Intro
+    - Implementing CSS
 - A challenge for HTML5 Semantic Tags & Challenge was done.
+- An example for Implementing CSS was added.
 
 ## June 10, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
