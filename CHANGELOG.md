@@ -4,6 +4,7 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 3: CSS Basics
     - Basic CSS Selectors
+    - Dev Tools Introduction
 - An example for Basic CSS Selectors was added.
 
 ## June 11, 2020
