@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 12, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 3: CSS Basics
+    - Basic CSS Selectors
+- An example for Basic CSS Selectors was added.
+
 ## June 11, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 2: HTML Basics

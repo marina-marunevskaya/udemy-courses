@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 3: CSS Basics</title>
+        <style>
+            /* Element Selectors */
+            body {
+                background-color: #a7fcfc;
+            }
+
+            /* . is for classes */ 
+            .primary-heading {
+                color: #3399f3;
+            }
+
+            /* # is for IDs */
+            #welcome {
+                background-color: #8de8fa;
+            }
+
+            #about {
+                background-color: #72c6f7;
+            }
+
+            /* Multiple Selectors */
+            #welcome, #info {
+                border: 1px solid #000;
+                margin-bottom: 10px;
+                padding: 10px;
+            }
+
+            /* Nested Selectors */
+            #welcome p {
+                font-size: 1.2rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section id="welcome">
+            <h1 class="primary-heading">Welcome</h1>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi voluptatum qui voluptatibus autem ratione recusandae ipsum? Ipsa nisi atque saepe sapiente consequatur maiores eum repellendus laudantium esse fugit dolores et quasi ut autem, illum qui labore quae nemo deleniti sed rerum doloremque soluta similique! Deleniti culpa earum vel temporibus mollitia.
+            </p>
+        </section>
+        <section id="info">
+            <h2>
+                Info
+            </h2>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quae eligendi nihil, praesentium soluta eius sit ipsa, mollitia vero, asperiores aperiam blanditiis numquam a tempore modi quaerat dolorem veritatis labore sint cupiditate itaque nisi. Quaerat placeat amet dignissimos. Dolores doloribus enim nam sit, et accusantium laborum dicta autem aspernatur debitis quam quibusdam eos a inventore quo sapiente libero, ad harum nihil! Accusantium, similique. Alias saepe, accusantium quos eveniet a laudantium!
+            </p>
+        </section>
+    </body>
+</html>
