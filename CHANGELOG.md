@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 3: CSS Basics
     - Fonts In CSS
+    - Color Types
 - An example for Fonts In CSS was added.
+- An example for Color Types was added.
 
 ## June 12, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
