@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 15, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 3: CSS Basics
+    - Fonts In CSS
+- An example for Fonts In CSS was added.
+
 ## June 12, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 3: CSS Basics
