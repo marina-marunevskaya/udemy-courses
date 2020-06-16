@@ -6,9 +6,11 @@
     - Float & Alignment
     - Link State & Button Styling
     - Navigation Menu Styling
+    - Inline, Block & Inline-Block Display
 - An example for Float & Alignment was added.
 - An example for Link State & Button Styling was added.
 - An example for Navigation Menu Styling was added.
+- An example for Inline, Block & Inline-Block Display was added.
 
 ## June 15, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
