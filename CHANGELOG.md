@@ -5,8 +5,10 @@
   - Section 3: CSS Basics
     - Float & Alignment
     - Link State & Button Styling
+    - Navigation Menu Styling
 - An example for Float & Alignment was added.
 - An example for Link State & Button Styling was added.
+- An example for Navigation Menu Styling was added.
 
 ## June 15, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
