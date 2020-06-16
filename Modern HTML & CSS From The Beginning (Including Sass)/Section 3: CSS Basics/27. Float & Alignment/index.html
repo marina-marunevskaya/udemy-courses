@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 3: CSS Basics</title>
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+
+            body {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                line-height: 1.5;
+            }
+
+            .container {
+                margin: 30px auto 0;
+                max-width: 960px;
+            }
+
+            .box {
+                background-color: #fff5f5;
+                border: 1px dotted #333;
+                margin-bottom: 15px;
+                padding: 20px;
+            }
+
+            .box h3 {
+                text-align: center;
+            }
+
+            .box p {
+                text-align: justify;
+            }
+
+            .clr {
+                clear: both;
+            }
+
+            #box-2 {
+                float: left;
+                width: 49%;
+            }
+
+            #box-3 {
+                float: right;
+                width: 49%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div id="box-1" class="box">
+                <h3>Box</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, amet id ea debitis sit beatae placeat facere totam sint aliquam nulla possimus autem accusamus voluptas corporis iste dignissimos itaque odio? Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, quia?
+                </p>
+            </div>
+            <div id="box-2" class="box">
+                <h3>Box</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, amet id ea debitis sit beatae placeat facere totam sint aliquam nulla possimus autem accusamus voluptas corporis iste dignissimos itaque odio?
+                </p>
+            </div>
+            <div id="box-3" class="box">
+                <h3>Box</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, amet id ea debitis sit beatae placeat facere totam sint aliquam nulla possimus autem accusamus voluptas corporis iste dignissimos itaque odio?
+                </p>
+            </div>
+            <div class="clr"></div>
+            <div id="box-4" class="box">
+                <h3>Box</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, amet id ea debitis sit beatae placeat facere totam sint aliquam nulla possimus autem accusamus voluptas corporis iste dignissimos itaque odio?
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

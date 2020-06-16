@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 16, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 3: CSS Basics
+    - Float & Alignment
+- An example for Float & Alignment was added.
+
 ## June 15, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 3: CSS Basics
