@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 3: CSS Basics
     - Float & Alignment
+    - Link State & Button Styling
 - An example for Float & Alignment was added.
+- An example for Link State & Button Styling was added.
 
 ## June 15, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
