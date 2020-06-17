@@ -6,10 +6,12 @@
     - Positioning
     - Form Style Challenge
     - Form Style Solution
+    - Aside: Visibility, Order & Negative Margin
 - An example for Positioning was added.
 - A challenge for Form Style Challenge was done.
 - A solution from Form Style Solution was added.
 - A typo in Form Style Challenge was fixed.
+- An example for Aside: Visibility, Order & Negative Margin was added.
 
 ## June 16, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
