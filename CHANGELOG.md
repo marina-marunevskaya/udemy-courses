@@ -9,6 +9,7 @@
 - An example for Positioning was added.
 - A challenge for Form Style Challenge was done.
 - A solution from Form Style Solution was added.
+- A typo in Form Style Challenge was fixed.
 
 ## June 16, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
