@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 17, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 3: CSS Basics
+    - Positioning
+- An example for Positioning was added.
+
 ## June 16, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 3: CSS Basics
