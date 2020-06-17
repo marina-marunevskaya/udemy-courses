@@ -5,8 +5,10 @@
   - Section 3: CSS Basics
     - Positioning
     - Form Style Challenge
+    - Form Style Solution
 - An example for Positioning was added.
 - A challenge for Form Style Challenge was done.
+- A solution from Form Style Solution was added.
 
 ## June 16, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
