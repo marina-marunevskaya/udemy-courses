@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 3: CSS Basics
     - Positioning
+    - Form Style Challenge
 - An example for Positioning was added.
+- A challenge for Form Style Challenge was done.
 
 ## June 16, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
