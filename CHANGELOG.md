@@ -6,7 +6,10 @@
     - Project Intro
     - Aside: Design & Ideas
     - File Structure & Navbar
+    - Showcase & Home Info
 - A navigation bar for Home, About and Index pages was added.
+- Showcase and info sections were added.
+- A Credits page was added.
 
 ## June 17, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
