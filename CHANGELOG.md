@@ -5,6 +5,8 @@
   - Section 4: Hotel Website
     - Project Intro
     - Aside: Design & Ideas
+    - File Structure & Navbar
+- A navigation bar for Home, About and Index pages was added.
 
 ## June 17, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
