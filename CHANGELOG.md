@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## June 18, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 4: Hotel Website
+    - Project Intro
+
 ## June 17, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 3: CSS Basics
