@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 4: Hotel Website
     - Features & Footer
+    - About Page
 - Features and footer sections were added.
+- An About page was created.
 
 ## June 18, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
