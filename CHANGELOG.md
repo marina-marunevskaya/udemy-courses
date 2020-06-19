@@ -5,6 +5,7 @@
   - Section 4: Hotel Website
     - Features & Footer
     - About Page
+    - Contact Page
 - Features and footer sections were added.
 - An About page was created.
 
