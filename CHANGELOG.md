@@ -6,6 +6,8 @@
     - Features & Footer
     - About Page
     - Contact Page
+  - Section 5: Intro To Responsive Layouts
+    - What Is Responsive Design?
 - Features and footer sections were added.
 - An About page was created.
 
