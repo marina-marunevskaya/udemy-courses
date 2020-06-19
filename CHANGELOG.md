@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 19, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 4: Hotel Website
+    - Features & Footer
+- Features and footer sections were added.
+
 ## June 18, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 4: Hotel Website
