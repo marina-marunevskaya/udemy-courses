@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 5: Intro To Responsive Layouts
     - Getting Started With Media Queries
+    - Em & Rem Units
 - An example for Getting Started With Media Queries was added.
+- An example for Em & Rem Units was added.
 
 ## June 19, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
