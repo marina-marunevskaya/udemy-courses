@@ -6,9 +6,11 @@
     - Getting Started With Media Queries
     - Em & Rem Units
     - Vh & Vw Units
+    - Making The Hotel Website Fully Responsive
 - An example for Getting Started With Media Queries was added.
 - An example for Em & Rem Units was added.
 - An example for Vh & Vw Units was added.
+- A media query was added to the Hotel Example Site.
 
 ## June 19, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
