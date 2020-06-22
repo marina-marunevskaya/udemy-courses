@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 22, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 5: Intro To Responsive Layouts
+    - Getting Started With Media Queries
+- An example for Getting Started With Media Queries was added.
+
 ## June 19, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 4: Hotel Website
