@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 5: Intro To Responsive Layouts</title>
+        <style>
+            * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+
+            header {
+                background-color: #242424;
+                color: #fff;
+                height: 100vh;
+                padding: 2rem;
+                padding-top: 15rem;
+                text-align: center;
+            }
+
+            header h1 {
+                font-size: 3rem;
+            }
+
+            header p {
+                margin: 1rem 0;
+            }
+
+            .btn {
+                background-color: #f4f4f4;
+                color: #333;
+                display: inline-block;
+                padding: 0.75rem 2rem;
+                text-decoration: none;
+            }
+
+            section {
+                padding: 2rem;
+            }
+
+            @media (max-height: 450px) {
+                header {
+                    padding-top: 5rem;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>vh & vw</h1>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit earum aliquam autem qui quas tenetur.
+            </p>
+            <a href="#" class="btn">Read More About Vh & Vw</a>
+        </header>
+        <section>
+            <h2>Info</h2>
+            <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam alias modi dolorum, ullam accusantium fuga. Similique ratione est alias velit, eum sint tempora in culpa expedita minus fugiat possimus, facere eveniet ipsa perspiciatis provident voluptatibus saepe optio? Rerum atque accusamus labore odit recusandae tempora cumque nihil tenetur nostrum cupiditate? Dolor.
+            </p>
+        </section>
+    </body>
+</html>
