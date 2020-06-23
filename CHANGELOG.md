@@ -6,8 +6,10 @@
     - What Is Flexbox?
     - Flexbox Basics
     - Flex Properties
+    - Flex Alignment & Justify
 - An example for Flexbox Basics was added.
 - An example for Flex Properties was added.
+- An example for Flex Alignment & Justify was added.
 
 ## June 22, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
