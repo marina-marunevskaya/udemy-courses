@@ -5,7 +5,9 @@
   - Section 6: Intro To Flexbox
     - What Is Flexbox?
     - Flexbox Basics
+    - Flex Properties
 - An example for Flexbox Basics was added.
+- An example for Flex Properties was added.
 
 ## June 22, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
