@@ -4,6 +4,8 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 6: Intro To Flexbox
     - What Is Flexbox?
+    - Flexbox Basics
+- An example for Flexbox Basics was added.
 
 ## June 22, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
