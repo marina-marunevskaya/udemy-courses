@@ -1,6 +1,9 @@
 # CHANGELOG
 
-## June 23, 202
+## June 24, 2020
+- A typo was fixed.
+
+## June 23, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 6: Intro To Flexbox
     - What Is Flexbox?
