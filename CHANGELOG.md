@@ -6,9 +6,11 @@
     - Project Intro
     - Header HTML & Navbar Styles
     - Hero Section & Overlay
+    - Icons & Solutions Sections
 - A typo was fixed.
 - A navbar was added.
 - A Hero section with overlay and a Credits page were added.
+- An About and Solutions sections were added.
 
 ## June 23, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
