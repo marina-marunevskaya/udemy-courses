@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 7: EdgeLedger Website (Flexbox)
     - Project Intro
+    - Header HTML & Navbar Styles
 - A typo was fixed.
+- A navbar was added.
 
 ## June 23, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
