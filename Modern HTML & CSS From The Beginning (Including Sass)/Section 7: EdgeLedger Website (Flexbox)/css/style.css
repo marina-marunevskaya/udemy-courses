@@ -43,7 +43,7 @@ img {
     justify-content: space-between;
     opacity: 0.8;
     padding: 0 30px;
-    position: sticky;
+    position: fixed;
     top: 0px;
     width: 100%;
 }
@@ -64,4 +64,49 @@ img {
 
 .navbar .logo {
     font-weight: 400;
+}
+
+/* Header */
+.hero {
+    background-image: url('../images/hero.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 100vh;
+    position: relative;
+}
+
+.hero .content {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.hero .content h1 {
+    font-size: 55px;
+}
+
+.hero .content p {
+    font-size: 23px;
+    margin: 20px 0 30px;
+    max-width: 600px;
+}
+
+.hero::before {
+    background-color: rgba(0, 0, 0, 0.6);
+    content: '';
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.hero * {
+    z-index: 10;
 }

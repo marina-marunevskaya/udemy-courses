@@ -1,0 +1,9 @@
+.resource {
+    font-size: 1.4rem;
+}
+
+.external-link {
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    line-height: 2;
+}
