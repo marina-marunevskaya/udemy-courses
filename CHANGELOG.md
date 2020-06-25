@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 25, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 7: EdgeLedger Website (Flexbox)
+    - Cases & Blog Sections
+- A Cases and Blog sections were added.
+
 ## June 24, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 7: EdgeLedger Website (Flexbox)
