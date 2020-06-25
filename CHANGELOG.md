@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 7: EdgeLedger Website (Flexbox)
     - Cases & Blog Sections
+    - Finishing The Homepage
 - A Cases and Blog sections were added.
+- The Home page was finished.
 
 ## June 24, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
