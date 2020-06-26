@@ -5,8 +5,10 @@
   - Section 7: EdgeLedger Website (Flexbox)
     - Responsive Media Queries
     - Inner Pages
+    - Navbar & Lightbox Effects
 - A media query was added.
 - A Blog and Post pages were added.
+- Additional effects were added.
 
 ## June 25, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
