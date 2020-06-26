@@ -6,9 +6,11 @@
     - Responsive Media Queries
     - Inner Pages
     - Navbar & Lightbox Effects
+    - Extra - Adding a Favicon
 - A media query was added.
 - A Blog and Post pages were added.
 - Additional effects were added.
+- An icon was added.
 
 ## June 25, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
