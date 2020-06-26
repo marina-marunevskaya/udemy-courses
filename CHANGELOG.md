@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## June 26, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 7: EdgeLedger Website (Flexbox)
+    - Responsive Media Queries
+- A media query was added.
+
 ## June 25, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 7: EdgeLedger Website (Flexbox)
