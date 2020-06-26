@@ -111,6 +111,11 @@ img {
     z-index: 10;
 }
 
+.hero.blog {
+    background-image: url('../images/case.jpg');
+    height: 30vh;
+}
+
 /* Icons */
 .icons {
     padding: 30px;
@@ -166,6 +171,29 @@ img {
 .callback-form .btn {
     margin-top: 20px;
     padding: 12px 0;
+}
+
+/* Post */
+.post {
+    padding: 50px 30px;
+}
+
+.post h2 {
+    border-bottom: 1px solid #ccc;
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.post .meta {
+    margin-bottom: 30px;
+}
+
+.post img {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 30px;
+    width: 300px;
 }
 
 /* Footer */

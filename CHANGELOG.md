@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 7: EdgeLedger Website (Flexbox)
     - Responsive Media Queries
+    - Inner Pages
 - A media query was added.
+- A Blog and Post pages were added.
 
 ## June 25, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
