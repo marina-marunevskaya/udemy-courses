@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## July 2, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 8: Website Deployment - Shared Host
+    - Types Of Web Hosting
+
 ## June 26, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 7: EdgeLedger Website (Flexbox)
