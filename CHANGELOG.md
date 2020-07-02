@@ -5,6 +5,7 @@
   - Section 8: Website Deployment - Shared Host
     - Types Of Web Hosting
     - Shared Hosting Setup
+    - Hosting Company Links
 
 ## June 26, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
