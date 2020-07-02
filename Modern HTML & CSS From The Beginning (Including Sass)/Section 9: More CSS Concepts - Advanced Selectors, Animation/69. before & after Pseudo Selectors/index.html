@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 9: More CSS Concepts - Advanced Selectors, Animation</title>
+        <style>
+            .required:after {
+                color: #f00;
+                content: '*';
+                padding-left: 2px;
+            }
+
+            .information {
+                line-height: 1.5;
+            }
+
+            .information:before {
+                background-color: #0066ff;
+                border-radius: 50%;
+                color: #fff;
+                content: 'i';
+                display: inline-block;
+                height: 25px;
+                line-height: 25px;
+                text-align: center;
+                width: 25px;
+            }
+        </style>
+    </head>
+    <body>
+        <form>
+            <label class="required" for="full-name">Full Name</label>
+            <input type="text" name="full-name" id="full-name" placeholder="Sabrina Joe">
+        </form>
+        <p class="information">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos id voluptatum ut rem porro facilis perspiciatis fugiat. Voluptates, iure corporis?
+        </p>
+    </body>
+</html>
