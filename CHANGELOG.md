@@ -11,7 +11,9 @@
     - BONUS: Contact Form Submission (PHP Script)
   - Section 9: More CSS Concepts - Advanced Selectors, Animation
     - Targeted Selectors
+    - nth-child Pseudo Selectors
 - An example for Targeted Selectors was added.
+- An example for nth-child Pseudo Selectors was added.
 
 ## June 26, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 9: More CSS Concepts - Advanced Selectors, Animation</title>
+        <style>
+            body {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+                margin: 0;
+                padding: 0;
+            }
+
+            div {
+                flex: 1;
+            }
+
+            li {
+                list-style: none;
+                margin: 0.25rem;
+                padding: 0.25rem;
+            }
+
+            /* First Child */
+            div:first-child li:first-child {
+                background-color: #ff004c;
+            }
+
+            /* Last Child */
+            div:first-child li:last-child {
+                background-color: #00ffc8;
+            }
+
+            /* Position 3 */
+            div:first-child li:nth-child(3) {
+                background-color: #ff00d4;
+            }
+
+            /* Every 3 */
+            div:nth-child(2) li:nth-child(3n) { /* nth-child(3n + 0) */
+                background-color: #e9ab00;
+            }
+
+            /* Every 3 After 7 */
+            div:nth-child(2) li:nth-child(3n + 7) {
+                background-color: #f76e56;
+            }
+
+            /* Every odd */
+            div:nth-child(3) li:nth-child(odd) {
+                background-color: #b3ff00;
+            }
+
+            /* Every even */
+            div:nth-child(3) li:nth-child(even) {
+                background-color: #00ffd5;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+                <li>Item 4</li>
+                <li>Item 5</li>
+                <li>Item 6</li>
+                <li>Item 7</li>
+                <li>Item 8</li>
+                <li>Item 9</li>
+                <li>Item 10</li>
+                <li>Item 11</li>
+                <li>Item 12</li>
+                <li>Item 13</li>
+                <li>Item 14</li>
+                <li>Item 15</li>
+                <li>Item 16</li>
+                <li>Item 17</li>
+                <li>Item 18</li>
+                <li>Item 19</li>
+                <li>Item 20</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+                <li>Item 4</li>
+                <li>Item 5</li>
+                <li>Item 6</li>
+                <li>Item 7</li>
+                <li>Item 8</li>
+                <li>Item 9</li>
+                <li>Item 10</li>
+                <li>Item 11</li>
+                <li>Item 12</li>
+                <li>Item 13</li>
+                <li>Item 14</li>
+                <li>Item 15</li>
+                <li>Item 16</li>
+                <li>Item 17</li>
+                <li>Item 18</li>
+                <li>Item 19</li>
+                <li>Item 20</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+                <li>Item 4</li>
+                <li>Item 5</li>
+                <li>Item 6</li>
+                <li>Item 7</li>
+                <li>Item 8</li>
+                <li>Item 9</li>
+                <li>Item 10</li>
+                <li>Item 11</li>
+                <li>Item 12</li>
+                <li>Item 13</li>
+                <li>Item 14</li>
+                <li>Item 15</li>
+                <li>Item 16</li>
+                <li>Item 17</li>
+                <li>Item 18</li>
+                <li>Item 19</li>
+                <li>Item 20</li>
+            </ul>
+        </div>
+    </body>
+</html>
