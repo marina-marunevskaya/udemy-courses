@@ -8,6 +8,7 @@
     - Hosting Company Links
     - Setting Up Email
     - Upload Your Site via FTP
+    - BONUS: Contact Form Submission (PHP Script)
 
 ## June 26, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
