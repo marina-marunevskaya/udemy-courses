@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 9: More CSS Concepts - Advanced Selectors, Animation</title>
+        <style>
+            form {
+                margin-top: 30px;
+                padding: 10px;
+            }
+
+            /* All Children */
+            div p {
+                background-color: #dde;
+            }
+
+            /* Only Direct Children */
+            div > p {
+                border: 4px solid #890096;
+            }
+
+            /* Directly After */
+            div + p {
+                background-color: #00ffd5;
+            }
+
+            /* By Attribute */
+            a[target] {
+                border: 1px solid #000;
+                color: #00bb2f;
+            }
+
+            /* Specific Attribute Values */
+            input[type="email"],
+            input[type="text"] {
+                margin-bottom: 15px;
+                width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <p>
+                Lorem ipsum dolor sit amet.
+            </p>
+            <ul>
+                <li>Item 1</li>
+                <li>
+                    <p>
+                        Item 2
+                    </p>
+                </li>
+                <li>Item 3</li>
+            </ul>
+            <p>
+                Lorem ipsum dolor sit amet.
+            </p>
+        </div>
+        <p>
+            Lorem ipsum dolor sit amet.
+        </p>
+        <a href="#">Page 1</a>
+        <a href="#">Page </a>
+        <a href="https://google.com" target="_blank">Go To Google</a>
+        <form>
+            <input type="text" name="name" id="name" placeholder="Jane Cat">
+            <input type="email" name="email" id="email" placeholder="j.cat@gmail.com">
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
