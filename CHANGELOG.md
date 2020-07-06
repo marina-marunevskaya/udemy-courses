@@ -5,8 +5,10 @@
   - Section 9: More CSS Concepts - Advanced Selectors, Animation
     - Box Shadows
     - Text Shadows
+    - CSS Variables (Custom Properties)
 - An example for Box Shadows was added.
 - An example for Text Shadows was added.
+- An example for CSS Variables (Custom Properties) was added.
 
 ## July 2, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)

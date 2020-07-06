@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 9: More CSS Concepts - Advanced Selectors, Animation</title>
+        <style>
+            :root {
+                --light-color: #f4f4f4;
+                --primary-color: #333;
+                --secondary-color: #ccc;
+
+                --container-max-width: 1200px;
+
+                --box-1-width: 3;
+                --box-2-width: 1;
+            }
+
+            * {
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+                background-color: var(--light-color);
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                line-height: 1.4;
+            }
+
+            header {
+                background-color: var(--primary-color);
+                border-bottom: 5px solid var(--secondary-color);
+                color: #fff;
+                text-align: center;
+            }
+
+            .container {
+                display: flex;
+                margin-left: auto;
+                margin-right: auto;
+                max-width: var(--container-max-width);
+            }
+
+            .box {
+                background-color: var(--primary-color);
+                border-bottom: 5px solid var(--secondary-color);
+                color: #fff;
+                margin: 1rem;
+                padding: 1rem;
+            }
+
+            .box-1 {
+                flex: var(--box-1-width);
+            }
+
+            .box-2 {
+                flex: var(--box-2-width);
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>CSS Variables</h1>
+        </header>
+        <div class="container">
+            <div class="box box-1">
+                <h3>Box 1</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus quae optio, quas exercitationem repellendus amet?</p>
+            </div>
+            <div class="box box-2">
+                <h3>Box 2</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus quae optio, quas exercitationem repellendus amet?</p>
+            </div>
+        </div>
+    </body>
+</html>
