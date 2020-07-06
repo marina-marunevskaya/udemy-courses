@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 9: More CSS Concepts - Advanced Selectors, Animation</title>
+        <style>
+            .container {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .box {
+                background-color: #9bfcec;
+                margin: 1rem;
+                padding: 1rem;
+            }
+
+            .box:nth-child(1) {
+                /* offset-x offset-y color */
+                box-shadow: 10px 10px #00ffd5;
+            }
+
+            .box:nth-child(2) {
+                /* offset-x offset-y blur-radius color */
+                box-shadow: 10px 10px 10px #00ffd5;
+            }
+
+            .box:nth-child(3) {
+                /* Negative values */
+                box-shadow: -10px -10px 10px #00ffd5;
+            }
+
+            .box:nth-child(4) {
+                /* offset-x offset-y blur-radius spread-radius color */
+                box-shadow: 5px 5px 10px 5px rgba(0, 255, 213, 0.3);
+            }
+
+            .box:nth-child(5) {
+                /* inset offset-x offset-y color */
+                box-shadow: inset 5px 5px #00ffd5;
+            }
+
+            .box:nth-child(6) {
+                /* multiple shadows */
+                box-shadow: 5px 5px #00ffd5, -5px -5px #00ffd5;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="box">
+                <h3>Lorem.</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, ex.</p>
+            </div>
+            <div class="box">
+                <h3>Lorem.</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, ex.</p>
+            </div>
+            <div class="box">
+                <h3>Lorem.</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, ex.</p>
+            </div>
+            <div class="box">
+                <h3>Lorem.</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, ex.</p>
+            </div>
+            <div class="box">
+                <h3>Lorem.</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, ex.</p>
+            </div>
+            <div class="box">
+                <h3>Lorem.</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, ex.</p>
+            </div>
+        </div>
+    </body>
+</html>
