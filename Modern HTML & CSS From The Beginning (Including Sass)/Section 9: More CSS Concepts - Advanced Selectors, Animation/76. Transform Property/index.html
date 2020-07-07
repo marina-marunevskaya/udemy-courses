@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 9: More CSS Concepts - Advanced Selectors, Animation</title>
+        <style>
+            body {
+                align-items: center;
+                background-color: #333;
+                display: flex;
+                height: 100vh;
+                justify-content: space-evenly;
+            }
+
+            .box {
+                background-color: #fff;
+                flex: 1;
+                margin: 10px;
+                transition: all 1s ease-in-out;
+                
+            }
+
+            .box:after {
+                content: '';
+                display: block;
+                padding-top: 100%;
+            }
+
+            .box:nth-child(1) {
+                transform: rotate(45deg);
+            }
+
+            .box:nth-child(2) {
+                transform: skew(-45deg);
+            }
+
+            .box:nth-child(3) {
+                transform: scale(0.9);
+            }
+
+            .box:nth-child(4):hover {
+                transform: rotate(360deg);
+            }
+
+            .box:nth-child(5):hover {
+                transform: translateY(100px);
+            }
+
+            .box:nth-child(6):hover {
+                transform: translateX(100px);
+            }
+
+            .box:nth-child(7):hover {
+                transform: translate(100px, 100px);
+            }
+
+            .box:nth-child(8):hover {
+                transform: translate3d(-100px, 100px, 100px);
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </body>
+</html>
