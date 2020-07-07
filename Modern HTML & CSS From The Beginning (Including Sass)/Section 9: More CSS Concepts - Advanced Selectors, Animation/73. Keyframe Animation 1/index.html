@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 9: More CSS Concepts - Advanced Selectors, Animation</title>
+        <style>
+            div {
+                margin: 10px;
+            }
+
+            body {
+                background-color: #949494;
+            }
+
+            .box {
+                animation-delay: 1s;
+                animation-direction: alternate;
+                animation-duration: 2s;
+                animation-fill-mode: forwards;
+                animation-iteration-count: 1;
+                animation-name: box;
+                animation-timing-function: ease-in-out;
+                background-color: #ffffff;
+                height: 200px;
+                width: 200px;
+            }
+
+            .square {
+                /* name duration fill-mode delay timing-function*/
+                animation: square 2s forwards 1s ease-in-out;
+                background-color: #ffffff;
+                height: 200px;
+                width: 200px;
+            }
+
+            @keyframes box {
+                /* can be removed */
+                from {
+                    height: 200px;
+                    width: 200px;
+                }
+
+                to {
+                    background-color: #e100ff;
+                    height: 400px;
+                    width: 400px;
+                }
+            }
+
+            @keyframes square {
+                to {
+                    background-color: #00ffd5;
+                    height: 400px;
+                    width: 400px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box"></div>
+        <div class="square"></div>
+    </body>
+</html>
