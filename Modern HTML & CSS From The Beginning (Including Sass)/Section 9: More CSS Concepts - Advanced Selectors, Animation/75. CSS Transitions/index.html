@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 9: More CSS Concepts - Advanced Selectors, Animation</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+
+            div {
+                margin: 10px;
+            }
+
+            body {
+                align-items: center;
+                background-color: #333;
+                display: flex;
+                height: 100vh;
+                justify-content: center;
+            }
+
+            .box {
+                background-color: #fff;
+                height: 100px;
+                transition-delay: 1s;
+                transition-duration: 2s;
+                transition-property: background-color;
+                transition-timing-function: ease-in-out;
+                width: 100px;
+            }
+
+            .box:hover {
+                background-color: #fda24d;
+            }
+
+            .square {
+                background-color: #fff;
+                height: 100px;
+                /* transition: background-color, border-radius 2s ease-in-out; */
+                transition: all 2s ease-in-out;
+                width: 100px;
+            }
+
+            .square:hover {
+                background-color: #fda24d;
+                border-radius: 50%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box"></div>
+        <div class="square"></div>
+    </body>
+</html>

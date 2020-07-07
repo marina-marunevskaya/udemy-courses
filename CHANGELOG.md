@@ -5,8 +5,10 @@
   - Section 9: More CSS Concepts - Advanced Selectors, Animation
     - Keyframe Animation 1
     - Keyframe Animation 2
+    - CSS Transitions
 - An example for Keyframe Animation 1 was added.
 - An example for Keyframe Animation 2 was added.
+- An example for CSS Transitions was added.
   
 ## July 6, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
