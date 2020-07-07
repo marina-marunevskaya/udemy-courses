@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Section 9: More CSS Concepts - Advanced Selectors, Animation</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+                background-color: #949494;
+            }
+
+            .box {
+                animation: box 10s forwards ease-in-out;
+                animation-iteration-count: infinite;
+                background-color: #ffffff;
+                height: 200px;
+                left: 0;
+                position: relative;
+                top: 0;
+                width: 200px;
+            }
+
+            @keyframes box {
+                0% {
+                    background-color: #00f7ff;
+                    border-radius: 50% 0% 0% 0%;
+                    left: 0;
+                    top: 0;
+                }
+
+                25% {
+                    background-color: #00c3ff;
+                    border-radius: 0% 50% 0% 0%;
+                    left: calc(100vw - 200px);
+                    top: 0;
+                }
+
+                50% {
+                    background-color: #c278ff;
+                    border-radius: 0% 0% 50% 0%;
+                    left: calc(100vw - 200px);
+                    top: calc(100vh - 200px);
+                }
+
+                75% {
+                    background-color: #00aeff;
+                    border-radius: 0% 0% 0% 50%;
+                    left: 0;
+                    top: calc(100vh - 200px);
+                }
+
+                100% {
+                    background-color: #00f7ff;
+                    border-radius: 50% 0% 0% 0%;
+                    left: 0;
+                    top: 0;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box"></div>
+    </body>
+</html>
