@@ -4,7 +4,7 @@
     --page-3-color: #008080;
     --page-4-color: #6a5acd;
 
-    --animate-duration: 1s;
+    --animate-duration: 2s;
 }
 
 body {
@@ -63,6 +63,16 @@ body {
     background-color: var(--page-1-color);
 }
 
+#page-1 h1 {
+    animation: heading var(--animate-duration) forwards ease-in;
+    transform: translateY(-1200px);
+}
+
+#page-1 p {
+    animation: text var(--animate-duration) forwards ease-in 1s;
+    transform: translateX(-1800px);
+}
+
 #page-2 {
     background-color: var(--page-2-color);
 }
@@ -73,4 +83,16 @@ body {
 
 #page-4 {
     background-color: var(--page-4-color);
+}
+
+@keyframes heading {
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes text {
+    to {
+        transform: translateX(0);
+    }
 }
