@@ -4,7 +4,10 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 10: Mini Projects With Keyframes, Transitions, etc 
     - Presentation Website [1] - Intro & HTML
+    - Presentation Website [2] - Page CSS
 - HTML for Presentation Website [1] - Intro & HTML was added.
+- CSS for Presentation Website [2] - Page CSS was added.
+- An HTML error was fixed.
 
 ## July 7, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
