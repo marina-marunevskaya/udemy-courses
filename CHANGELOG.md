@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## July 8, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 10: Mini Projects With Keyframes, Transitions, etc 
+    - Presentation Website [1] - Intro & HTML
+- HTML for Presentation Website [1] - Intro & HTML was added.
+
 ## July 7, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 9: More CSS Concepts - Advanced Selectors, Animation
