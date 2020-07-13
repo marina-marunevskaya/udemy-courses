@@ -1,0 +1,62 @@
+.menu-wrap {
+    left: 0;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.menu-wrap .toggler {
+    cursor: pointer;
+    height: 50px;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    width: 50px;
+    z-index: 2;
+}
+
+.menu-wrap .hamburger {
+    align-items: center;
+    background-color: var(--primary-color);
+    display: flex;
+    height: 60px;
+    justify-content: center;
+    left: 0;
+    padding: 1rem;
+    position: absolute;
+    top: 0;
+    width: 60px;
+    z-index: 1;
+}
+
+/* Hamburger Line */
+.menu-wrap .hamburger > div {
+    align-items: center;
+    background-color: #fff;
+    display: flex;
+    flex: none;
+    height: 2px;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+
+/* Hamburger Lines - Top & Bottom */
+.menu-wrap .hamburger > div:before, 
+.menu-wrap .hamburger > div:after {
+    background-color: inherit;
+    content: '';
+    height: 2px;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}
+
+.menu-wrap .hamburger > div:before {
+    top: -10px;
+}
+
+.menu-wrap .hamburger > div:after {
+    top: 10px;
+}

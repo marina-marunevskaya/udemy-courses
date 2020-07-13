@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## July 13, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 10: Mini Projects With Keyframes, Transitions, etc
+    - Hamburger Menu Overlay [2] - Creating The Hamburger
+- Styling for Hamburger was added.
+
 ## July 8, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 10: Mini Projects With Keyframes, Transitions, etc 
