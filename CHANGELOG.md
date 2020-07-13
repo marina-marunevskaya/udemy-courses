@@ -7,10 +7,12 @@
     - Hamburger Menu Overlay [3] - Animating The Hamburger Lines
     - Hamburger Menu Overlay [4] - Menu Overlay
     - Knowledge Timeline [1] - HTML & Base CSS
+    - Knowledge Timeline [2] - Boxes & Arrows
 - Styling for Hamburger was added.
 - Hamburger Animation was added.
 - Menu Overlay was added.
 - HTML and base CSS were added for Knowledge Timeline [1] - HTML & Base CSS.
+- Boxes and Arrows were added for Knowledge Timeline [2] - Boxes & Arrows.
 
 ## July 8, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
