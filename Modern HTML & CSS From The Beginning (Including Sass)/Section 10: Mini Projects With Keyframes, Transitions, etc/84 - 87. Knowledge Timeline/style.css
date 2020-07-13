@@ -53,7 +53,7 @@ h1 {
 
 /* Dot */
 #timeline ul li:after {
-    background-color: var(--secondary-color);
+    background-color: inherit;
     border-radius: 50%;
     bottom: 0;
     content: '';
@@ -69,20 +69,24 @@ h1 {
 #timeline ul li div {
     background-color: var(--secondary-color);
     bottom: 0;
+    opacity: 0;
     padding: 1rem;
     position: relative;
     transition: all 0.5s ease-in-out;
+    visibility: hidden;
     width: 400px;
 }
 
 /* Right Side */
 #timeline ul li:nth-child(odd) div {
     left: 40px;
+    transform: translate(200px, 0);
 }
 
 /* Left Side */
 #timeline ul li:nth-child(even) div {
     left: -434px;
+    transform: translate(-200px, 0);
 }
 
 /* Arrow */
@@ -107,6 +111,17 @@ h1 {
     border-color: transparent transparent transparent var(--secondary-color);
     border-width: 8px 0 8px 16px;
     right: -15px;
+}
+
+/* Show Box */
+#timeline ul li.show div {
+    opacity: 1;
+    transform: none;
+    visibility: visible;
+}
+
+#timeline ul li.show:after {
+    background-color: var(--secondary-color);
 }
 
 @media (max-width: 900px) {
