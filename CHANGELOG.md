@@ -5,8 +5,10 @@
   - Section 10: Mini Projects With Keyframes, Transitions, etc
     - Hamburger Menu Overlay [2] - Creating The Hamburger
     - Hamburger Menu Overlay [3] - Animating The Hamburger Lines
+    - Hamburger Menu Overlay [4] - Menu Overlay
 - Styling for Hamburger was added.
 - Hamburger Animation was added.
+- Menu Overlay was added.
 
 ## July 8, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
