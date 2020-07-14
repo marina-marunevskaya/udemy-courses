@@ -6,7 +6,9 @@
     - Quick Dropdown Menu Project
   - Section 11: CSS Grid
     - What Is CSS Grid?
+    - Grid Basics & Columns
 - An example was added for Quick Dropdown Menu Project.
+- An example for Grid Basics & Columns was added.
 
 ## July 13, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
