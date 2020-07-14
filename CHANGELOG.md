@@ -7,8 +7,10 @@
   - Section 11: CSS Grid
     - What Is CSS Grid?
     - Grid Basics & Columns
+    - Grid Rows
 - An example was added for Quick Dropdown Menu Project.
 - An example for Grid Basics & Columns was added.
+- An example for Grid Rows was added.
 
 ## July 13, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
