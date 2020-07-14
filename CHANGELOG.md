@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## July 14, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 10: Mini Projects With Keyframes, Transitions, etc
+    - Quick Dropdown Menu Project
+- An example was added for Quick Dropdown Menu Project.
+
 ## July 13, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 10: Mini Projects With Keyframes, Transitions, etc
