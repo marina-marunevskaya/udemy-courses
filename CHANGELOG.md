@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## July 15, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 11: CSS Grid
+    - Spanning Columns & Rows
+- An example for Spanning Columns & Rows was added.
+
 ## July 14, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 10: Mini Projects With Keyframes, Transitions, etc
