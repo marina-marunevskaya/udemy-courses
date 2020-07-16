@@ -6,8 +6,10 @@
     - Project Intro
     - Setup & Favicon
     - Core Styles, Variables & Navbar
+    - Showcase With Overlay & Button Styles
 - A site icon and base HTML for Setup & Favicon were added.
 - Core styles, variables and Navbar for Core Styles, Variables & Navbar were added.
+- Showcase and button styles for Showcase With Overlay & Button Styles were added.
 
 ## July 15, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
