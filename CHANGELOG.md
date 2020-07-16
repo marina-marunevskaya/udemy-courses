@@ -4,6 +4,8 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 12: NewsGrid Website
     - Project Intro
+    - Setup & Favicon
+- A site icon and base HTML for Setup & Favicon were added.
 
 ## July 15, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
