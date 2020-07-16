@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## July 16, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 12: NewsGrid Website
+    - Project Intro
+
 ## July 15, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 11: CSS Grid
