@@ -5,7 +5,9 @@
   - Section 12: NewsGrid Website
     - Project Intro
     - Setup & Favicon
+    - Core Styles, Variables & Navbar
 - A site icon and base HTML for Setup & Favicon were added.
+- Core styles, variables and Navbar for Core Styles, Variables & Navbar were added.
 
 ## July 15, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
