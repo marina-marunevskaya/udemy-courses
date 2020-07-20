@@ -7,6 +7,7 @@
     --grey-color: #777;
     --dark-grey-color: #444;
     --lighter-grey-color: #555;
+    --light-grey: #eee;
     --max-width: 1100px;
 }
 
@@ -171,6 +172,10 @@ h1, h2, h3, h4, h5, h6 {
     padding: 3rem;
 }
 
+.l-heading {
+    font-size: 3rem;
+}
+
 .list li {
     border-bottom: 1px dotted var(--lighter-grey-color);
     padding: 0.5rem 0;
@@ -305,6 +310,17 @@ h1, h2, h3, h4, h5, h6 {
 
 #home-articles .articles-container > *:last-child {
     grid-column: 2 / span 2;
+}
+
+#article .meta {
+    background-color: var(--light-grey);
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+}
+
+#article .meta .category {
+    margin-top: 0.4rem;
 }
 
 /* Footer */

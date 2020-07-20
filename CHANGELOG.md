@@ -6,9 +6,11 @@
     - Home Articles Grid
     - Footer With Grid
     - About Page & Page Container
+    - Article Page
 - Articles section for Home Articles Grid was added.
 - Footer for Footer With Grid was added.
 - About page for About Page & Page Container was added.
+- Article page for Article Page was added.
 
 ## July 16, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
