@@ -5,6 +5,8 @@
     --dark-color: #333;
     --white-color: #fff;
     --grey-color: #777;
+    --dark-grey-color: #444;
+    --lighter-grey-color: #555;
     --max-width: 1100px;
 }
 
@@ -33,6 +35,10 @@ a {
 
 ul {
     list-style: none;
+}
+
+p {
+    margin: 0.5rem 0;
 }
 
 img {
@@ -165,6 +171,16 @@ h1, h2, h3, h4, h5, h6 {
     padding: 3rem;
 }
 
+.list li {
+    border-bottom: 1px dotted var(--lighter-grey-color);
+    padding: 0.5rem 0;
+    width: 90%;
+}
+
+.list li a:hover {
+    color: var(--primary-color) !important;
+}
+
 .text-primary {
     color: var(--primary-color);
 }
@@ -277,4 +293,38 @@ h1, h2, h3, h4, h5, h6 {
 
 #home-articles .articles-container > *:last-child {
     grid-column: 2 / span 2;
+}
+
+/* Footer */
+#main-footer {
+    background-color: var(--dark-color);
+    color: var(--white-color);
+}
+
+#main-footer a {
+    color: var(--white-color);
+}
+
+#main-footer .footer-container {
+    display: grid;
+    grid-gap: 1.5rem;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+#main-footer .footer-container > *:last-child {
+    background-color: var(--dark-grey-color);
+    font-size: 0.75rem;
+    grid-column: 1 / span 4;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+#main-footer .footer-container input[type='email'] {
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    width: 90%;
+}
+
+#main-footer .footer-container input[type='submit'] {
+    width: 90%;
 }

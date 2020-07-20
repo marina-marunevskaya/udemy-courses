@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 12: NewsGrid Website
     - Home Articles Grid
+    - Footer With Grid
 - Articles section for Home Articles Grid was added.
+- Footer for Footer With Grid was added.
 
 ## July 16, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
