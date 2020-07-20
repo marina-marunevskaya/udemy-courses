@@ -106,6 +106,65 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 0.9;
 }
 
+.card {
+    background-color: var(--white-color);
+    padding: 1rem;
+}
+
+.bg-dark {
+    background-color: var(--dark-color);
+    color: var(--white-color);
+}
+
+.bg-primary {
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+
+.bg-secondary {
+    background-color: var(--secondary-color);
+    color: var(--white-color);
+}
+
+.bg-dark h1,
+.bg-dark h2,
+.bg-dark h3,
+.bg-dark a, 
+.bg-primary h1,
+.bg-primary h2,
+.bg-primary h3,
+.bg-primary a, 
+.bg-secondary h1,
+.bg-secondary h2,
+.bg-secondary h3,
+.bg-secondary a {
+    color: inherit;
+}
+
+.py-1 {
+    padding: 1.5rem 0;
+}
+
+.py-2 {
+    padding: 2rem 0;
+}
+
+.py-3 {
+    padding: 3rem 0;
+}
+
+.p-1 {
+    padding: 1.5rem;
+}
+
+.p-2 {
+    padding: 2rem;
+}
+
+.p-3 {
+    padding: 3rem;
+}
+
 .text-primary {
     color: var(--primary-color);
 }
@@ -195,4 +254,27 @@ h1, h2, h3, h4, h5, h6 {
 
 #showcase .showcase-content p {
     margin-bottom: 1rem;
+}
+
+/* Articles */
+#home-articles .articles-container {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+#home-articles .articles-container > *:first-child,
+#home-articles .articles-container > *:last-child {
+    align-items: center;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+#home-articles .articles-container > *:first-child {
+    grid-column: 1 / span 2;
+}
+
+#home-articles .articles-container > *:last-child {
+    grid-column: 2 / span 2;
 }

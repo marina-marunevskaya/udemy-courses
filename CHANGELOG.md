@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## July 20, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 12: NewsGrid Website
+    - Home Articles Grid
+- Articles section for Home Articles Grid was added.
+
 ## July 16, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 12: NewsGrid Website
