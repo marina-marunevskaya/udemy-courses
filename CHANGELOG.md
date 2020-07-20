@@ -5,8 +5,10 @@
   - Section 12: NewsGrid Website
     - Home Articles Grid
     - Footer With Grid
+    - About Page & Page Container
 - Articles section for Home Articles Grid was added.
 - Footer for Footer With Grid was added.
+- About page for About Page & Page Container was added.
 
 ## July 16, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)

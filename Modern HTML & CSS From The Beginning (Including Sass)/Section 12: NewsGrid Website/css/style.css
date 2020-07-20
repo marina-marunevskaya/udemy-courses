@@ -181,6 +181,18 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--primary-color) !important;
 }
 
+/* Inner Page Grid Container */
+.page-container {
+    display: grid;
+    grid-gap: 1.5rem;
+    grid-template-columns: 5fr 2fr;
+    margin: 2rem 0;
+}
+
+.page-container > *:first-child {
+    grid-row: 1 / span 3;
+}
+
 .text-primary {
     color: var(--primary-color);
 }
