@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## July 21, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 12: NewsGrid Website
+    - Responsive Media Queries
+- Media queries for Responsive Media Queries were added.
+
 ## July 20, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 12: NewsGrid Website
