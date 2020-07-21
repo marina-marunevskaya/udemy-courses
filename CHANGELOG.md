@@ -4,6 +4,7 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 12: NewsGrid Website
     - Responsive Media Queries
+    - Bonus: Intro To Photoshop (NewsGrid Logo)
 - Media queries for Responsive Media Queries were added.
 
 ## July 20, 2020
