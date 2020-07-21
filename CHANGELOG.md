@@ -10,6 +10,7 @@
     - Git & Pushing To Github
     - Git Commands & Links
     - Netlify Deploy & Form Submission
+    - Custom Domain Name
 - Media queries for Responsive Media Queries were added.
 
 ## July 20, 2020
