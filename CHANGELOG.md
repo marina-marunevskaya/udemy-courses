@@ -11,6 +11,8 @@
     - Git Commands & Links
     - Netlify Deploy & Form Submission
     - Custom Domain Name
+  - Section 14: Learning Sass
+    - What Is Sass?
 - Media queries for Responsive Media Queries were added.
 
 ## July 20, 2020
