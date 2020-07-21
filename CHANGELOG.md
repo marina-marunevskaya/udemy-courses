@@ -5,6 +5,8 @@
   - Section 12: NewsGrid Website
     - Responsive Media Queries
     - Bonus: Intro To Photoshop (NewsGrid Logo)
+  - Section 13: Website Deployment With Netlify (FREE)
+    - How It Works
 - Media queries for Responsive Media Queries were added.
 
 ## July 20, 2020
