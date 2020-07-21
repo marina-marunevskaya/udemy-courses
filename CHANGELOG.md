@@ -7,6 +7,7 @@
     - Bonus: Intro To Photoshop (NewsGrid Logo)
   - Section 13: Website Deployment With Netlify (FREE)
     - How It Works
+    - Git & Pushing To Github
 - Media queries for Responsive Media Queries were added.
 
 ## July 20, 2020
