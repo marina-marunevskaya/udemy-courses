@@ -4,6 +4,7 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 14: Learning Sass
     - Environment Setup With Node-Sass
+    - Koala Sass Compiler - GUI Alternative
 - Node-Sass for Environment Setup With Node-Sass was installed.
 
 ## July 21, 2020
