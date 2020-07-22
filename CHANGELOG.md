@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## July 22, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 14: Learning Sass
+    - Environment Setup With Node-Sass
+- Node-Sass for Environment Setup With Node-Sass was installed.
+
 ## July 21, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 12: NewsGrid Website
