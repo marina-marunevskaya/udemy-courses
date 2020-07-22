@@ -5,7 +5,9 @@
   - Section 14: Learning Sass
     - Environment Setup With Node-Sass
     - Koala Sass Compiler - GUI Alternative
+    - Variables & Partials
 - Node-Sass for Environment Setup With Node-Sass was installed.
+- An example with variables and partials for Variables & Partials was added.
 
 ## July 21, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
