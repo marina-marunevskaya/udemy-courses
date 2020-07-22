@@ -8,10 +8,12 @@
     - Variables & Partials
     - Nesting & Structuring
     - Inheritance & Contrast
+    - Functions, Mixins & More
 - Node-Sass for Environment Setup With Node-Sass was installed.
 - An example with variables and partials for Variables & Partials was added.
 - An example with nesting and structuring for Nesting & Structuring was added.
 - An example with inheritance for Inheritance & Contrast was added.
+- An example with functions and mixins for Functions, Mixins & More was added.
 
 ## July 21, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
