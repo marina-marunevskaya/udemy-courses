@@ -5,7 +5,9 @@
   - Section 15: Portfolio Website With Sass
     - Project Intro
     - Project Setup
+    - Header & Main Nav
 - Project setup for Project Setup was doone.
+- Header for Header & Main Nav was added.
 
 ## July 22, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)

@@ -1,4 +1,5 @@
 @import './config';
+@import './utilities';
 
 /* Reset */
 
@@ -29,4 +30,70 @@ h1, h2, h3, h4, h5, h6 {
 
 img {
     width: 100%;
+}
+
+/* Logo */
+#logo {
+    color: #fff;
+    font-size: 1.5rem;
+    height: 70px;
+    line-height: 70px;
+    text-transform: uppercase;
+}
+
+#main-nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+
+    ul {
+        display: flex;
+    }
+
+    li {
+        padding: 1rem 1.5rem;
+    }
+
+    a {
+        border-bottom: 3px solid rgba(0, 0, 0, 0);
+        color: #fff;
+        padding-bottom: 0.5rem;
+        text-decoration: none;
+        text-transform: uppercase;
+        transition: border-color 0.5s;
+
+        &:hover {
+            border-color: $medium-color;
+        }
+
+        &.current {
+            border-color: $main-color;
+        }
+    }
+}
+
+/* Header */
+#header {
+    &-home {
+        background-image: $bg-image;
+        background-position: center left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        height: 100vh;
+
+        .header-content {
+            padding-top: 20%;
+            text-align: center;
+
+            h1 {
+                font-size: 4rem;
+                line-height: 1.2;
+            }
+        }
+    }
+
+    &-inner {
+
+    }
 }
