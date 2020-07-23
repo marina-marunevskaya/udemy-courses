@@ -4,6 +4,8 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 15: Portfolio Website With Sass
     - Project Intro
+    - Project Setup
+- Project setup for Project Setup was doone.
 
 ## July 22, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)

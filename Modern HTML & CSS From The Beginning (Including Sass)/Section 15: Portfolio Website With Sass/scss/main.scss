@@ -1,0 +1,32 @@
+@import './config';
+
+/* Reset */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff;
+    font-family: 'Dosis', sans-serif;
+    line-height: 1.6;
+}
+
+a {
+    color: $dark-color;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+}
+
+img {
+    width: 100%;
+}
