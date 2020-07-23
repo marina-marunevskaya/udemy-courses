@@ -97,3 +97,51 @@ img {
 
     }
 }
+
+#home {
+    &-a {
+        .specials {
+            display: grid;
+            grid-gap: 1rem;
+            grid-template-columns: repeat(4, 1fr);
+            margin-top: 3rem;
+
+            .fas {
+                color: $main-color;
+                padding-bottom: 0.4rem;
+            }
+        }
+    }
+
+    &-b {
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+
+            div {
+                padding: 3rem 0;
+
+                &:nth-child(odd) {
+                    background-color: $light-color;
+                }
+
+                &:nth-child(even) {
+                    background-color: $medium-color;
+                }
+            }
+
+            li {
+                line-height: 2;
+
+                &.stats-title {
+                    font-size: 1.5rem;
+                }
+
+                &.stats-number {
+                    font-size: 2rem;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}

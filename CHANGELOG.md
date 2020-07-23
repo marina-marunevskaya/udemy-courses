@@ -6,8 +6,10 @@
     - Project Intro
     - Project Setup
     - Header & Main Nav
+    - Specialize & Stats Section
 - Project setup for Project Setup was doone.
 - Header for Header & Main Nav was added.
+- Spesizlize and stats sections for Specialize & Stats Section were added.
 
 ## July 22, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
