@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## July 23, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 15: Portfolio Website With Sass
+    - Project Intro
+
 ## July 22, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 14: Learning Sass
