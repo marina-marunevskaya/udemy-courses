@@ -144,4 +144,83 @@ img {
             }
         }
     }
+
+    &-c {
+        .process {
+            display: grid;
+            grid-gap: 1.5rem;
+            grid-template-columns: repeat(4, 1fr);
+            text-align: center;
+
+            &-step {
+                background-color: $main-color;
+                color: set-text-color($main-color);
+                border-radius: 50%;
+                font-size: 28px;
+                height: calc(15px + 2rem);
+                line-height: 15px;
+                padding: 1rem;
+                position: absolute;
+                right: 0;
+                top: 0;
+                transition: all 1s;
+                width: calc(15px + 2rem);
+            }
+
+            &-icon {
+                background-color: $dark-color;
+                border-radius: 50%;
+                color: set-text-color($dark-color);
+                height: calc(70px + 4rem);
+                line-height: 70px;
+                margin-bottom: 30px;
+                padding: 2rem;
+                position: relative;
+                text-align: center;
+                transition: all 1s;
+                width: calc(70px + 4rem);
+
+                &:hover {
+                    background-color: $main-color;
+                    height: calc(90px + 4rem);
+                    line-height: 90px;
+                    margin-bottom: 10px;
+                    width: calc(90px + 4rem);
+
+                    .process-step {
+                        background-color: $dark-color;
+                        color: set-text-color($dark-color);
+                    }
+                }
+            }
+        }
+    }
+}
+
+#main-footer {
+    background-color: $dark-color;
+    color: set-text-color($dark-color);
+    height: 5rem;
+
+    .footer-content {
+        align-items: center;
+        display: flex;
+        height: 5rem;
+        justify-content: space-between;
+
+        .social .fab {
+            border: 2px solid #fff;
+            border-radius: 50%;
+            height: calc(20px + 1rem);
+            line-height: 20px;
+            margin-right: 1rem;
+            padding: 0.5rem;
+            text-align: center;
+            width: calc(20px + 1rem);
+
+            &:hover {
+                background-color: $main-color;
+            }
+        }
+    }
 }

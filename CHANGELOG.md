@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## July 27, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 15: Portfolio Website With Sass
+    - Process Section & Footer
+- Process section and footer for Process Section & Footer were added.
+
 ## July 23, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 15: Portfolio Website With Sass

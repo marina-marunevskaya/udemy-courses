@@ -84,6 +84,23 @@ input[class^='btn-']:hover {
     }
 }
 
+.section-title {
+    display: block;
+    font-size: 2rem;
+    font-weight: 100;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.bottom-line {
+    background-color: $main-color;
+    display: block;
+    height: 2px;
+    margin: 0 auto 1rem auto;
+    width: 3rem;
+}
+
 .text-main {
     background-color: $main-color;
     color: $dark-color;
