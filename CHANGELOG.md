@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 15: Portfolio Website With Sass
     - Process Section & Footer
+    - About Page Info Section
 - Process section and footer for Process Section & Footer were added.
+- Info section for About Page Info Section was added.
 
 ## July 23, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)

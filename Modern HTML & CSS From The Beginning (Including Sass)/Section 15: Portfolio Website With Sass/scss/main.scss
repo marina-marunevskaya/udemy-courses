@@ -94,7 +94,12 @@ img {
     }
 
     &-inner {
-
+        background-image: $bg-image;
+        background-position: 20% 30%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-bottom: 3px solid $main-color;
+        height: 5.5rem;
     }
 }
 
@@ -193,6 +198,47 @@ img {
                     }
                 }
             }
+        }
+    }
+}
+
+#about {
+    &-a {
+        .about-info {
+            display: grid;
+            grid-gap: 1.2rem;
+            grid-template-areas:
+                'bio-image bio bio'
+                'aw1 aw2 aw3';
+        }
+
+        .bio-image {
+            grid-area: bio-image;
+        }
+
+        .bio {
+            border-left: 3px solid $main-color;
+            grid-area: bio;
+            padding: 0.8rem;
+        }
+
+        .award-1 {
+            grid-area: aw1;
+        }
+
+        .award-2 {
+            grid-area: aw2;
+        }
+
+        .award-3 {
+            grid-area: aw3;
+        }
+
+        .award-1 .fas,
+        .award-2 .fas,
+        .award-3 .fas {
+            color: $main-color;
+            margin: 1rem;
         }
     }
 }
