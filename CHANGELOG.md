@@ -4,7 +4,9 @@
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 15: Portfolio Website With Sass
     - Work Gallery With Transitions
+    - Contact Page
 - A portfoio gallery for Work Gallery With Transitions was added.
+- Contact page for Contact Page was added.
 
 ## July 27, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
