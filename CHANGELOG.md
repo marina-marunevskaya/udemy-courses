@@ -5,8 +5,10 @@
   - Section 15: Portfolio Website With Sass
     - Work Gallery With Transitions
     - Contact Page
+    - Responsive Media Queries
 - A portfoio gallery for Work Gallery With Transitions was added.
 - Contact page for Contact Page was added.
+- Responsive media queries for Responsive Media Queries were added.
 
 ## July 27, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
