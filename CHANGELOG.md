@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## July 29, 2020
+- Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
+  - Section 15: Portfolio Website With Sass
+    - Deploy & Contact Form With Spam Filter
+
 ## July 28, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 15: Portfolio Website With Sass
