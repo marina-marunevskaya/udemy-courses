@@ -6,6 +6,9 @@
     - Deploy & Contact Form With Spam Filter
   - Section 16: Where To Go From Here
     - Where To Go From Here
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 1: Intro & Getting Started
+    - Welcome To The Course
 
 ## July 28, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
