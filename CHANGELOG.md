@@ -8,7 +8,9 @@
     - Visual Studio Code Setup
   - Section 2: JavaScript Language Fundamentals
     - Section Intro & File Setup
+    - Using The Console
 - Initial setup was added.
+- An example with console use was added.
 
 ## July 29, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
