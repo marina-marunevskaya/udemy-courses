@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## July 30, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 1: Intro & Getting Started
+    - Project Files & Questions
+
 ## July 29, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
   - Section 15: Portfolio Website With Sass
