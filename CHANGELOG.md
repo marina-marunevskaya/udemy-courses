@@ -5,6 +5,7 @@
   - Section 1: Intro & Getting Started
     - Project Files & Questions
     - Projects Github Repo
+    - Visual Studio Code Setup
 
 ## July 29, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
