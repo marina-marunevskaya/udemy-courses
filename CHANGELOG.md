@@ -6,6 +6,9 @@
     - Project Files & Questions
     - Projects Github Repo
     - Visual Studio Code Setup
+  - Section 2: JavaScript Language Fundamentals
+    - Section Intro & File Setup
+- Initial setup was added.
 
 ## July 29, 2020
 - Modern HTML & CSS From The Beginning (Including Sass) (Udemy)
