@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 2: JavaScript Language Fundamentals
     - Variables - var, let & const
+    - Data Types in JavaScript
 - An example with var, let and const for Variables - var, let & const was added.
+- An example with data types for Data Types in JavaScript was added.
 
 ## July 30, 2020
 - Modern JavaScript From The Beginning (Udemy)
