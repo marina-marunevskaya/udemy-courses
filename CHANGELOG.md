@@ -6,9 +6,11 @@
     - Variables - var, let & const
     - Data Types in JavaScript
     - Type Conversion
+    - Numbers & The Math Object
 - An example with var, let and const for Variables - var, let & const was added.
 - An example with data types for Data Types in JavaScript was added.
 - An example with type conversion for Type Conversion was added.
+- An example with numbers and math object for Numbers & The Math Object was added.
 
 ## July 30, 2020
 - Modern JavaScript From The Beginning (Udemy)
