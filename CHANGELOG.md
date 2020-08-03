@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## July 30, 2020
+## August 3, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 2: JavaScript Language Fundamentals
     - Variables - var, let & const
@@ -11,6 +11,7 @@
 - An example with data types for Data Types in JavaScript was added.
 - An example with type conversion for Type Conversion was added.
 - An example with numbers and math object for Numbers & The Math Object was added.
+- A typo in CHANGELOG.md was fixed.
 
 ## July 30, 2020
 - Modern JavaScript From The Beginning (Udemy)
