@@ -6,9 +6,11 @@
     - String Methods & Concatenation
     - Template Literals
     - Arrays & Array Methods
+    - Object Literals
 - An example with strings and string methods for String Methods & Concatenation was added.
 - An example with template literals for Template Literals was added.
 - An example with arrays and array methods for Arrays & Array Methods was added.
+- An example with object literals for Object Literals was added.
 
 ## August 3, 2020
 - Modern JavaScript From The Beginning (Udemy)
