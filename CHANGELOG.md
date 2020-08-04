@@ -5,8 +5,10 @@
   - Section 2: JavaScript Language Fundamentals
     - String Methods & Concatenation
     - Template Literals
+    - Arrays & Array Methods
 - An example with strings and string methods for String Methods & Concatenation was added.
 - An example with template literals for Template Literals was added.
+- An example with arrays and array methods for Arrays & Array Methods was added.
 
 ## August 3, 2020
 - Modern JavaScript From The Beginning (Udemy)
