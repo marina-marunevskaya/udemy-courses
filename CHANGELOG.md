@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 4, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 2: JavaScript Language Fundamentals
+    - String Methods & Concatenation
+- An example with strings and string methods for String Methods & Concatenation was added.
+
 ## August 3, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 2: JavaScript Language Fundamentals
