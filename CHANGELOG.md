@@ -5,8 +5,10 @@
   - Section 2: JavaScript Language Fundamentals
     - Dates & Times
     - If Statements & Comparison Operators
+    - Switches
 - An example with dates and times for Dates & Times was added.
 - An example with if statements and different operators for If Statements & Comparison Operators was added.
+- An example with switches was added.
 
 ## August 4, 2020
 - Modern JavaScript From The Beginning (Udemy)
