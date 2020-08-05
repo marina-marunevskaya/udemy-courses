@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 5, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 2: JavaScript Language Fundamentals
+    - Dates & Times
+- An example with dates and times for Dates & Times was added.
+
 ## August 4, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 2: JavaScript Language Fundamentals
