@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 6, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 2: JavaScript Language Fundamentals
+    - General Loops
+- An example with loops for General Loops was added.
+
 ## August 5, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 2: JavaScript Language Fundamentals
