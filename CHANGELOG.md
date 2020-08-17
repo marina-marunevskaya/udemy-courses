@@ -4,6 +4,8 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 3: DOM Manipulation & Events
     - What Is The DOM?
+    - Examining The Document Object
+- An example with the document object was added.
 
 ## August 6, 2020
 - Modern JavaScript From The Beginning (Udemy)
