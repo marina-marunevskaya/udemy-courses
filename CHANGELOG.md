@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## August 17, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 3: DOM Manipulation & Events
+    - What Is The DOM?
+
 ## August 6, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 2: JavaScript Language Fundamentals
