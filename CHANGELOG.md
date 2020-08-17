@@ -5,7 +5,9 @@
   - Section 3: DOM Manipulation & Events
     - What Is The DOM?
     - Examining The Document Object
+    - DOM Selectors For Single Elements
 - An example with the document object was added.
+- An example with DOM selectors for single elements was added.
 
 ## August 6, 2020
 - Modern JavaScript From The Beginning (Udemy)
