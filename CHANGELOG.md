@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 18, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 3: DOM Manipulation & Events
+    - DOM Selectors For Multiple Elements
+- An example with DOM selectors for multiple elements was added.
+
 ## August 17, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 3: DOM Manipulation & Events
