@@ -5,8 +5,10 @@
   - Section 3: DOM Manipulation & Events
     - DOM Selectors For Multiple Elements
     - Traversing The DOM
+    - Creating Elements
 - An example with DOM selectors for multiple elements was added.
 - An example with DOM traversing was added.
+- An example with creating elements was added.
 
 ## August 17, 2020
 - Modern JavaScript From The Beginning (Udemy)
