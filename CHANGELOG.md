@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 19, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 3: DOM Manipulation & Events
+    - Removing & Replacing Elements
+- An example with removing and replacing of elements was added.
+
 ## August 18, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 3: DOM Manipulation & Events
