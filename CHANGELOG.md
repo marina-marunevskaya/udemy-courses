@@ -5,8 +5,10 @@
   - Section 3: DOM Manipulation & Events
     - Removing & Replacing Elements
     - Event Listeners & The Event Object
+    - Mouse Events
 - An example with removing and replacing of elements was added.
 - An example with event listeners was added.
+- An example with mouse events was added.
 
 ## August 18, 2020
 - Modern JavaScript From The Beginning (Udemy)
