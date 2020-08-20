@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 3: DOM Manipulation & Events
     - Event Bubbling & Delegation
+    - Local & Session Storage
 - An example with event bubbling and event delegation was added.
+- An example with storages was added.
 
 ## August 19, 2020
 - Modern JavaScript From The Beginning (Udemy)
