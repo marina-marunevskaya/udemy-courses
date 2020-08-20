@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 20, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 3: DOM Manipulation & Events
+    - Event Bubbling & Delegation
+- An example with event bubbling and event delegation was added.
+
 ## August 19, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 3: DOM Manipulation & Events
