@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 4: DOM Projects
     - Task List [Part 1] - UI & Add Task Items
+    - Task List [Part 2] - Delete & Filter Tasks
 - UI and add task logic were added.
+- Delete and filter logic was added.
 
 ## August 20, 2020
 - Modern JavaScript From The Beginning (Udemy)

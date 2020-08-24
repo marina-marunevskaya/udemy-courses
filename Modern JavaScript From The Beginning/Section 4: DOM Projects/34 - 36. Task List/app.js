@@ -34,9 +34,50 @@ function addTask (event) {
     taskInput.value = '';
 }
 
+function deleteTask (event) {
+    if (event.target.parentElement.classList.contains('delete-item')) {
+        if (confirm('Are you sure?')) {
+            event.target.parentElement.parentElement.remove();
+        }
+    }
+}
+
+function clearTasks () {
+    if (confirm('Are you sure?')) {
+        while (taskList.firstChild) {
+            taskList.removeChild(taskList.firstChild);
+        }
+    }
+}
+
+function filterTasks (event) {
+    const value = event.target.value.toLowerCase();
+
+    document.querySelectorAll('.collection-item').forEach(
+        task => {
+            const item = task.firstChild.textContent.toLowerCase();
+
+            if (value && item.indexOf(value) !== -1) {
+                task.classList.add('blue');
+            } else {
+                task.classList.remove('blue');
+            }
+        }
+    );
+}
+
 function loadEventListeners () {
     // add task event
     form.addEventListener('submit', addTask);
+
+    // delete task event
+    taskList.addEventListener('click', deleteTask);
+
+    // clear tasks event
+    clearButton.addEventListener('click', clearTasks);
+
+    // filter tasks event
+    filter.addEventListener('input', filterTasks);
 }
 
 // load all event listeners
