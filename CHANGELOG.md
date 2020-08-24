@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 24, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 4: DOM Projects
+    - Task List [Part 1] - UI & Add Task Items
+- UI and add task logic were added.
+
 ## August 20, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 3: DOM Manipulation & Events
