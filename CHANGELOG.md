@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 25, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 4: DOM Projects
+    - Loan Calculator [Part 1] - Build The UI
+- UI was added.
+
 ## August 24, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 4: DOM Projects
