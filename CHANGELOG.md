@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 26, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 4: DOM Projects
+    - Loan Calculator [Part 2] - Calculate & Error
+- Calculation logic and error display logic were added.
+
 ## August 25, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 4: DOM Projects
