@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 4: DOM Projects
     - Loan Calculator [Part 2] - Calculate & Error
+    - Loan Calculator [Part 3] - Loader & User Experience
 - Calculation logic and error display logic were added.
+- User experience was added.
 
 ## August 25, 2020
 - Modern JavaScript From The Beginning (Udemy)
