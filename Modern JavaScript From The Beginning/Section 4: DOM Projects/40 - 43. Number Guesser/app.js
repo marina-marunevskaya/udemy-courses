@@ -1,7 +1,11 @@
+function getWinningNumber (min, max) {
+    return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
 // game values
 let minNumber = 1,
     maxNumber = 10,
-    winningNumber = 2,
+    winningNumber = getWinningNumber(minNumber, maxNumber),
     guessesLeft = 3;
 
 // UI elements
@@ -28,6 +32,10 @@ function gameOver (won, messageText) {
     // change border color
     guessInput.style.borderColor = color;
     setMessage(messageText, color);
+
+    // play again
+    guessButton.value = 'Play again';
+    guessButton.classList.add('play-again');
 }
 
 // listen for guess
@@ -60,4 +68,14 @@ guessButton.addEventListener(
             }
         }
     }
+);
+
+// play again
+game.addEventListener(
+    'mousedown',
+    event => {
+        if (event.target.classList.contains('play-again')) {
+            window.location.reload();
+        }
+    } 
 );
