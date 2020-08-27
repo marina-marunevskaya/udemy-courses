@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 4: DOM Projects
     - Number Guesser [Part 2] - Validation & Winning Case
+    - Number Guesser [Part 3] - Lose Case & Game Over
 - Validation logic and logic for the winning case was added.
+- Logic for lose case and game over logic was added.
 
 ## August 26, 2020
 - Modern JavaScript From The Beginning (Udemy)
