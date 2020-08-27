@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## August 27, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 4: DOM Projects
+    - Number Guesser [Part 2] - Validation & Winning Case
+- Validation logic and logic for the winning case was added.
+
 ## August 26, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 4: DOM Projects
