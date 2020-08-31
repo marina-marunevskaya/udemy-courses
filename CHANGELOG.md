@@ -6,9 +6,11 @@
     - Constructors & the 'this' Keyword
     - Built In Constructors
     - Prototypes Explained
+    - Prototypal Inheritance
 - An example with constructors and the this keyword was added.
 - An example with built-in constructors was added.
 - An example with prototypes was added.
+- An example with prototypal inheritance was added.
 
 ## August 27, 2020
 - Modern JavaScript From The Beginning (Udemy)
