@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 5: Object Oriented JavaScript - ES5 & ES2015
     - Constructors & the 'this' Keyword
+    - Built In Constructors
 - An example with constructors and the this keyword was added.
+- An example with built-in constructors was added.
 
 ## August 27, 2020
 - Modern JavaScript From The Beginning (Udemy)
