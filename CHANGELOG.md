@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 1, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 5: Object Oriented JavaScript - ES5 & ES2015
+    - Using Object.create
+- An example with Object.create was added.
+
 ## August 31, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 5: Object Oriented JavaScript - ES5 & ES2015
