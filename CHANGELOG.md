@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 5: Object Oriented JavaScript - ES5 & ES2015
     - Using Object.create
+    - ES6 Classes
 - An example with Object.create was added.
+- An example with ES6 classes was added.
 
 ## August 31, 2020
 - Modern JavaScript From The Beginning (Udemy)
