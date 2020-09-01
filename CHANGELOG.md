@@ -6,9 +6,12 @@
     - Using Object.create
     - ES6 Classes
     - Sub Classes
+  - Section 6: OOP Book List Project
+    - Build The Book List UI
 - An example with Object.create was added.
 - An example with ES6 classes was added.
 - An example with sub classes was added.
+- UI was added.
 
 ## August 31, 2020
 - Modern JavaScript From The Beginning (Udemy)
