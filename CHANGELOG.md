@@ -5,8 +5,10 @@
   - Section 6: OOP Book List Project
     - Add Book To List
     - Validation & Alert
+    - Delete Book From List
 - Add book logic was added.
 - Validation logic and alert logic were added.
+- Delete book logic was added.
 
 ## September 1, 2020
 - Modern JavaScript From The Beginning (Udemy)
