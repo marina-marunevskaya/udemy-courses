@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 6: OOP Book List Project
     - Add Book To List
+    - Validation & Alert
 - Add book logic was added.
+- Validation logic and alert logic were added.
 
 ## September 1, 2020
 - Modern JavaScript From The Beginning (Udemy)
