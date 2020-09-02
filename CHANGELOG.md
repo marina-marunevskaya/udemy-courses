@@ -6,9 +6,11 @@
     - Add Book To List
     - Validation & Alert
     - Delete Book From List
+    - Convert to ES6 Classes
 - Add book logic was added.
 - Validation logic and alert logic were added.
 - Delete book logic was added.
+- ES5 code was converted to ES6 code.
 
 ## September 1, 2020
 - Modern JavaScript From The Beginning (Udemy)
