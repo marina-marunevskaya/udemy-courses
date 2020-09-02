@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 2, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 6: OOP Book List Project
+    - Add Book To List
+- Add book logic was added.
+
 ## September 1, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 5: Object Oriented JavaScript - ES5 & ES2015
