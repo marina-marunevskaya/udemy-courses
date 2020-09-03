@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 3, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 6: OOP Book List Project
+    - Bonus - Add Local Storage
+- Local storage logic was added.
+
 ## September 2, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 6: OOP Book List Project
