@@ -5,6 +5,8 @@
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
     - What Is Asynchronous Programming?
     - Ajax & XHR Introduction
+    - XHR Object Methods & Working With Text
+- An example with XHR object was added.
 
 ## September 3, 2020
 - Modern JavaScript From The Beginning (Udemy)
