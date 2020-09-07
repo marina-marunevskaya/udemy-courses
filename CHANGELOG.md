@@ -4,6 +4,7 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
     - What Is Asynchronous Programming?
+    - Ajax & XHR Introduction
 
 ## September 3, 2020
 - Modern JavaScript From The Beginning (Udemy)
