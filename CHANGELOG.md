@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## September 7, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 7: Asynchronous JavaScript, Ajax & Fetch API
+    - What Is Asynchronous Programming?
+
 ## September 3, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 6: OOP Book List Project
