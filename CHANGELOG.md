@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
     - Working With Ajax & JSON
+    - Data From an External API - Chuck Norris Project
 - An example with Ajax and JSON was added.
+- An example with external API was added.
 
 ## September 7, 2020
 - Modern JavaScript From The Beginning (Udemy)
