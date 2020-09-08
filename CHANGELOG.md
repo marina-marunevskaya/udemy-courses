@@ -5,6 +5,7 @@
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
     - Working With Ajax & JSON
     - Data From an External API - Chuck Norris Project
+    - REST APIs & HTTP Requests
 - An example with Ajax and JSON was added.
 - An example with external API was added.
 
