@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 8, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 7: Asynchronous JavaScript, Ajax & Fetch API
+    - Working With Ajax & JSON
+- An example with Ajax and JSON was added.
+
 ## September 7, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API

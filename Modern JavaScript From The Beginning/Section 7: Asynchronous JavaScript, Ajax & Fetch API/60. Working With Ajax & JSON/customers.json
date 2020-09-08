@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "company": "Light Studio",
+        "phone": "123-456-789"
+    },
+    {
+        "id": 2,
+        "name": "Jackie Miles",
+        "company": "Tea Time",
+        "phone": "123-859-1458"
+    },
+    {
+        "id": 3,
+        "name": "Jack Wolf",
+        "company": "Wolf Studio",
+        "phone": "123-777-8975"
+    }
+]
