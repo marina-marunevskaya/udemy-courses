@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
     - Callback Functions
+    - Custom HTTP Library (Ajax With Callbacks) - Part 1
 - An example with a callback function was added.
+- A get method was added.
 
 ## September 8, 2020
 - Modern JavaScript From The Beginning (Udemy)
