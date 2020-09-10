@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
     - ES6 Promises
+    - The Fetch API
 - An example with Promise was added.
+- An example with fetch was added.
 
 ## September 9, 2020
 - Modern JavaScript From The Beginning (Udemy)
