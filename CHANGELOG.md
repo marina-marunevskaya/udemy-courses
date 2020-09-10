@@ -5,6 +5,7 @@
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
     - ES6 Promises
     - The Fetch API
+    - Error Handling With Fetch
 - An example with Promise was added.
 - An example with fetch was added.
 
