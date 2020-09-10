@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 10, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 7: Asynchronous JavaScript, Ajax & Fetch API
+    - ES6 Promises
+- An example with Promise was added.
+
 ## September 9, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
