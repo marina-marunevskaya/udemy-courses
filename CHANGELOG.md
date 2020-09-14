@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
     - Arrow Functions
+    - Custom HTTP Library (Fetch With Promises) - Part 3
 - An example with arrow functions was added.
+- HTTP library with fetch, promises and arrow functions was implemented.
 
 ## September 10, 2020
 - Modern JavaScript From The Beginning (Udemy)

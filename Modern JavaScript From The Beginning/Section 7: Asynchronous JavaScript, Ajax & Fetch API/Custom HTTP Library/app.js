@@ -1,72 +1,33 @@
 const http = new HTTPLib();
 
-/*http.get(
-    'https://jsonplaceholder.typicode.com/posts',
-    function (error, responseText) {
-        if (error) {
-            console.log(error);
-        } else {
-            console.log(responseText);
-        }
-    }
-);*/
+http
+    .get('https://jsonplaceholder.typicode.com/users')
+    .then(data => console.log(data))
+    .catch(error => console.log(error));
 
-/*
-http.get(
-    'https://jsonplaceholder.typicode.com/posts/1',
-    function (error, responseText) {
-        if (error) {
-            console.log(error);
-        } else {
-            console.log(responseText);
-        }
-    }
-);
-*/
-
-/*const post = {
-    userId: 1,
-    title: 'Create a new post',
-    body: 'This is a new post' 
+const newUserData = {
+    email: 'e.smith@smith.com',
+    name: 'Ellie Smith',
+    username: 'elliesmith'
 };
 
-http.post(
-    'https://jsonplaceholder.typicode.com/posts',
-    post,
-    function (error, responseText) {
-        if (error) {
-            console.log(error);
-        } else {
-            console.log(responseText);
-        }
-    }
-);*/
+http
+    .post('https://jsonplaceholder.typicode.com/users', newUserData)
+    .then(data => console.log(data))
+    .catch(error => console.log(error));
 
-/*const post = {
-    userId: 1,
-    title: 'Edit an existing post',
-    body: 'This is a new version of the post' 
+const userData = {
+    email: 'l.johnson@johnson.com',
+    name: 'Lisa Johnson',
+    username: 'lisajohnson'
 };
 
-http.put(
-    'https://jsonplaceholder.typicode.com/posts/1',
-    post,
-    function (error, responseText) {
-        if (error) {
-            console.log(error);
-        } else {
-            console.log(responseText);
-        }
-    }
-);*/
+http
+    .put('https://jsonplaceholder.typicode.com/users/2', userData)
+    .then(data => console.log(data))
+    .catch(error => console.log(error));
 
-http.delete(
-    'https://jsonplaceholder.typicode.com/posts/1',
-    function (error, responseText) {
-        if (error) {
-            console.log(error);
-        } else {
-            console.log(responseText);
-        }
-    }
-);
+http
+    .delete('https://jsonplaceholder.typicode.com/users/10')
+    .then(data => console.log(data))
+    .catch(error => console.log(error));
