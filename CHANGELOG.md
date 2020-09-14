@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 14, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 7: Asynchronous JavaScript, Ajax & Fetch API
+    - Arrow Functions
+- An example with arrow functions was added.
+
 ## September 10, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
