@@ -6,9 +6,11 @@
     - Arrow Functions
     - Custom HTTP Library (Fetch With Promises) - Part 3
     - Async & Await
+    - Custom HTTP Library (Fetch With Async Await) - Part 4
 - An example with arrow functions was added.
 - HTTP library with fetch, promises and arrow functions was implemented.
 - An example with async/await was added.
+- HTTP library with fetch and async/await was implemented.
 
 ## September 10, 2020
 - Modern JavaScript From The Beginning (Udemy)
