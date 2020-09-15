@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 8: API Projects
     - Github Finder [Part 1] - Intro & UI
+    - Github Finder [Part 2] - Fetching Profile Data
 - UI was added.
+- Logic for fetching profile data was added.
 
 ## September 14, 2020
 - Modern JavaScript From The Beginning (Udemy)
