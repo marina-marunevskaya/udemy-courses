@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 15, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 8: API Projects
+    - Github Finder [Part 1] - Intro & UI
+- UI was added.
+
 ## September 14, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 7: Asynchronous JavaScript, Ajax & Fetch API
