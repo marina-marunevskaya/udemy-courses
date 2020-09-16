@@ -19,6 +19,7 @@ searchInput.addEventListener(
                         );
                     } else {
                         ui.showProfile(data.profile);
+                        ui.showRepos(data.repos);
                     }
                 })
                 .catch(error => {

@@ -5,8 +5,10 @@
   - Section 8: API Projects
     - Github Finder [Part 3] - Display The Profile
     - Github Finder [Part 4] - Show Alert Message
+    - Github Finder [Part 5] - Fetch & Display Repos
 - Logic for displaying profile info was added.
 - Alert logic and clear profile logic were added.
+- Logic for fetching and displaying repos was added.
 
 ## September 15, 2020
 - Modern JavaScript From The Beginning (Udemy)
