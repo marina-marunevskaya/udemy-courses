@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 8: API Projects
     - Github Finder [Part 3] - Display The Profile
+    - Github Finder [Part 4] - Show Alert Message
 - Logic for displaying profile info was added.
+- Alert logic and clear profile logic were added.
 
 ## September 15, 2020
 - Modern JavaScript From The Beginning (Udemy)

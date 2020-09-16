@@ -1,9 +1,10 @@
 class UI {
     constructor () {
         this.profile = document.getElementById('profile');
+        this.currentAlert = undefined;
     }
 
-    showProfile(profile) {
+    showProfile (profile) {
         this.profile.innerHTML = `
             <div class="card card-body mb-3">
                 <div class="row">
@@ -47,5 +48,37 @@ class UI {
             </h3>
             <div id="repos"></div>
         `;
+    }
+
+    clearProfile () {
+        this.profile.innerHTML = '';
+    }
+
+    clearAlert () {
+        if (this.currentAlert) {
+            this.currentAlert.remove();
+            this.currentAlert = undefined;
+        }
+    }
+
+    showAlert (message, className) {
+        this.clearAlert();
+
+        const div = document.createElement('div');
+        div.className = className;
+        div.appendChild(
+            document.createTextNode(message)
+        );
+
+        const container = document.querySelector('.search-container');
+        const search = document.querySelector('.search');
+        container.insertBefore(div, search);
+
+        this.currentAlert = div;
+
+        setTimeout(
+            () => this.clearAlert(),
+            3000
+        );
     }
 }
