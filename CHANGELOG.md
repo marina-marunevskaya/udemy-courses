@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 16, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 8: API Projects
+    - Github Finder [Part 3] - Display The Profile
+- Logic for displaying profile info was added.
+
 ## September 15, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 8: API Projects

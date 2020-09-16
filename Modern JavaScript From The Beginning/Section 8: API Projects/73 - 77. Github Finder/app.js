@@ -1,6 +1,7 @@
 const searchInput = document.getElementById('searchInput');
 
-const API = new GitHubAPI();
+const api = new GitHubAPI();
+const ui = new UI();
 
 searchInput.addEventListener(
     'keyup',
@@ -8,13 +9,13 @@ searchInput.addEventListener(
         const username = event.target.value;
 
         if (username) {
-            API
+            api
                 .getUser(username)
                 .then(data => {
                     if (data.profile.message === 'Not Found') {
                         // show error alert
                     } else {
-                        // show profile
+                        ui.showProfile(data.profile);
                     }
                 })
                 .catch(error => {
