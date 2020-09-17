@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 17, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 8: API Projects
+    - WeatherJS [Part 1] - Intro & UI
+- UI was addded.
+
 ## September 16, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 8: API Projects
