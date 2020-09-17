@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 8: API Projects
     - WeatherJS [Part 1] - Intro & UI
+    - WeatherJS [Part 2] - Fetch Weather From API
 - UI was addded.
+- Logic for getting info from API was added.
 
 ## September 16, 2020
 - Modern JavaScript From The Beginning (Udemy)
