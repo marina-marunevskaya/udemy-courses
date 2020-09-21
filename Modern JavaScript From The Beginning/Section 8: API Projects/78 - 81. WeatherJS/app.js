@@ -1,6 +1,5 @@
-const defaultCountry = 'Norway';
-
-const countryAPI = new Country(defaultCountry);
+const storage = new Storage();
+const countryAPI = new Country(storage.getCountryData().country);
 const ui = new UI();
 
 function getCountryInfo () {
@@ -23,4 +22,17 @@ function getCountryInfo () {
 document.addEventListener(
     'DOMContentLoaded',
     getCountryInfo
+);
+
+document.getElementById('changeCountry').addEventListener(
+    'click',
+    () => {
+        const country = document.getElementById('countryInput').value;
+        countryAPI.changeCountry(country);
+        storage.setCountryData(country);
+
+        getCountryInfo();
+
+        $('#countryModal').modal('hide');
+    }
 );

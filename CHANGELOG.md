@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 8: API Projects
     - WeatherJS [Part 3] - Display The Weather
+    - WeatherJS [Part 4] - Save Location To Local Storage
 - Logic for displaying info was added.
+- Storage logic was added.
 
 ## September 17, 2020
 - Modern JavaScript From The Beginning (Udemy)
