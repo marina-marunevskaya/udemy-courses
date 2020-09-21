@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 21, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 8: API Projects
+    - WeatherJS [Part 3] - Display The Weather
+- Logic for displaying info was added.
+
 ## September 17, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 8: API Projects
