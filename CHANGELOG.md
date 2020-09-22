@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 22, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 9: Error Handling & Regular Expressions
+    - Error Handling with Try...Catch
+- An example with error catching was added.
+
 ## September 21, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 8: API Projects
