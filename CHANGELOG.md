@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 23, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 9: Error Handling & Regular Expressions
+    - Regular Expressions [Part 4] - Shorthand Character Classes
+- An example with shorthand charactee classes was added.
+
 ## September 22, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 9: Error Handling & Regular Expressions
