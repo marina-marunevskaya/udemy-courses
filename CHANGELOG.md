@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 10: Other Newer Features - ES2015+
     - Iterators & Generators
+    - Profile Scroller - Iterator Mini Project
 - An example with iterators and generators was added.
+- An example with iterators was added.
 
 ## September 23, 2020
 - Modern JavaScript From The Beginning (Udemy)
