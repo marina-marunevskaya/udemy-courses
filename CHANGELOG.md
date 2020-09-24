@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 24, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 10: Other Newer Features - ES2015+
+    - Iterators & Generators
+- An example with iterators and generators was added.
+
 ## September 23, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 9: Error Handling & Regular Expressions
