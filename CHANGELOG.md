@@ -6,9 +6,11 @@
     - Symbols
     - Destructuring
     - ES6 Maps
+    - ES6 Sets
 - An example with symbols was added.
 - An example with destructuring was added.
 - An example with maps was added.
+- An example with sets was added.
 
 ## September 24, 2020
 - Modern JavaScript From The Beginning (Udemy)
