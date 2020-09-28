@@ -5,8 +5,10 @@
   - Section 10: Other Newer Features - ES2015+
     - Symbols
     - Destructuring
+    - ES6 Maps
 - An example with symbols was added.
 - An example with destructuring was added.
+- An example with maps was added.
 
 ## September 24, 2020
 - Modern JavaScript From The Beginning (Udemy)
