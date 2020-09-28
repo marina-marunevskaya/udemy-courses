@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 10: Other Newer Features - ES2015+
     - Symbols
+    - Destructuring
 - An example with symbols was added.
+- An example with destructuring was added.
 
 ## September 24, 2020
 - Modern JavaScript From The Beginning (Udemy)
