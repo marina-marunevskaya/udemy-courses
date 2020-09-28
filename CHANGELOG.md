@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 28, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 10: Other Newer Features - ES2015+
+    - Symbols
+- An example with symbols was added.
+
 ## September 24, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 10: Other Newer Features - ES2015+
