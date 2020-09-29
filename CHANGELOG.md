@@ -4,6 +4,8 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 11: JavaScript Patterns
     - What Are Patterns?
+    - Module & Revealing Module Pattern
+- An example with module patterns was added.
 
 ## September 28, 2020
 - Modern JavaScript From The Beginning (Udemy)
