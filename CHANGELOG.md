@@ -6,8 +6,10 @@
     - What Are Patterns?
     - Module & Revealing Module Pattern
     - Singleton Pattern
+    - Factory Pattern
 - An example with module patterns was added.
 - An example with singleton pattern was added.
+- An example with factory pattern was added.
 
 ## September 28, 2020
 - Modern JavaScript From The Beginning (Udemy)
