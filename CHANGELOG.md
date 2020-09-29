@@ -5,7 +5,9 @@
   - Section 11: JavaScript Patterns
     - What Are Patterns?
     - Module & Revealing Module Pattern
+    - Singleton Pattern
 - An example with module patterns was added.
+- An example with singleton pattern was added.
 
 ## September 28, 2020
 - Modern JavaScript From The Beginning (Udemy)
