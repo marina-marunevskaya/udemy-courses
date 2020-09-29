@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## September 29, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 11: JavaScript Patterns
+    - What Are Patterns?
+
 ## September 28, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 10: Other Newer Features - ES2015+
