@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## September 30, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 11: JavaScript Patterns
+    - Observer Pattern
+- An example with observer pattern was added.
+
 ## September 29, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 11: JavaScript Patterns
