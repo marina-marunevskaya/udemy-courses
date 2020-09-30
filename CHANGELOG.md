@@ -5,8 +5,10 @@
   - Section 11: JavaScript Patterns
     - Observer Pattern
     - Mediator Pattern
+    - State Pattern - Small Project
 - An example with observer pattern was added.
 - An example with mediator pattern was added.
+- An example with state pattern was added.
 
 ## September 29, 2020
 - Modern JavaScript From The Beginning (Udemy)
