@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 11: JavaScript Patterns
     - Observer Pattern
+    - Mediator Pattern
 - An example with observer pattern was added.
+- An example with mediator pattern was added.
 
 ## September 29, 2020
 - Modern JavaScript From The Beginning (Udemy)
