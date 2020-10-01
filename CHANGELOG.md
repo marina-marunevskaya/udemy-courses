@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## October 1, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 12: Tracalorie Project (Using The Module Pattern)
+    - Project Introduction
+
 ## September 30, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 11: JavaScript Patterns
