@@ -4,6 +4,8 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 12: Tracalorie Project (Using The Module Pattern)
     - Project Introduction
+    - Creating The UI With Materialize CSS
+- Base HTML was added.
 
 ## September 30, 2020
 - Modern JavaScript From The Beginning (Udemy)
