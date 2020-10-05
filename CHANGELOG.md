@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## October 5, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 12: Tracalorie Project (Using The Module Pattern)
+    - Controllers & Data Structure
+- Controllers and data sctructures were defined.
+
 ## October 1, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 12: Tracalorie Project (Using The Module Pattern)
