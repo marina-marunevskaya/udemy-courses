@@ -4,7 +4,9 @@
 - Modern JavaScript From The Beginning (Udemy)
   - Section 12: Tracalorie Project (Using The Module Pattern)
     - Controllers & Data Structure
+    - Get & Populate Items
 - Controllers and data sctructures were defined.
+- Display items logic was added.
 
 ## October 1, 2020
 - Modern JavaScript From The Beginning (Udemy)

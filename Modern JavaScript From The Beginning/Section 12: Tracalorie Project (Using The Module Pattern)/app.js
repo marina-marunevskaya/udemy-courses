@@ -33,6 +33,9 @@ const ItemController = (function () {
     return {
         getData: function () {
             return data;
+        },
+        getItems: function () {
+            return data.items;
         }
     };
 })();
@@ -44,14 +47,32 @@ const StorageController = (function () {
 
 // UI Controller
 const UIController = (function () {
-    return {};
+    const UISelectors = {
+        itemListID: 'item-list'
+    };
+
+    return {
+        showItems: function (items) {
+            document.getElementById(UISelectors.itemListID).innerHTML = items.map(
+                item => `
+                    <li class="collection-item" id="item-${item.id}">
+                        <strong>${item.name}: </strong> <em>${item.calories} Calories</em>
+                        <a href="#" class="secondary-content">
+                            <span class="edit-item fa fa-pencil"></span>
+                        </a>
+                    </li>
+                `
+            ).join('');
+        }
+    };
 })();
 
 // App Controller
 const AppController = (function (ItemController, StorageController, UIController) {
     return {
         init: function () {
-
+            const items = ItemController.getItems();
+            UIController.showItems(items);
         }
     };
 })(ItemController, StorageController, UIController);
