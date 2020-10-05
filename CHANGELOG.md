@@ -5,8 +5,10 @@
   - Section 12: Tracalorie Project (Using The Module Pattern)
     - Controllers & Data Structure
     - Get & Populate Items
+    - Add Item To Data Structure
 - Controllers and data sctructures were defined.
 - Display items logic was added.
+- Add item logic was added.
 
 ## October 1, 2020
 - Modern JavaScript From The Beginning (Udemy)

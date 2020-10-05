@@ -36,6 +36,19 @@ const ItemController = (function () {
         },
         getItems: function () {
             return data.items;
+        },
+        addItem: function (name, calories) {
+            const ID = data.items.length
+                ? data.items[data.items.length - 1].id + 1
+                : 0;
+
+            calories = parseInt(calories);
+
+            const newItem = new Item(ID, name, calories);
+
+            data.items.push(newItem);
+
+            return newItem;
         }
     };
 })();
@@ -48,7 +61,10 @@ const StorageController = (function () {
 // UI Controller
 const UIController = (function () {
     const UISelectors = {
-        itemListID: 'item-list'
+        itemListID: 'item-list',
+        addBtnClass: '.add-btn',
+        nameInputID: 'itemName',
+        caloriesInputID: 'itemCalories'
     };
 
     return {
@@ -63,16 +79,46 @@ const UIController = (function () {
                     </li>
                 `
             ).join('');
+        },
+        getUISelectors: function () {
+            return UISelectors;
+        },
+        getItemInput: function () {
+            return {
+                name: document.getElementById(UISelectors.nameInputID).value,
+                calories: document.getElementById(UISelectors.caloriesInputID).value
+            };
         }
     };
 })();
 
 // App Controller
 const AppController = (function (ItemController, StorageController, UIController) {
+    const addItem = function (event) {
+        event.preventDefault();
+
+        const input = UIController.getItemInput();
+
+        if (input.name && input.calories) {
+            const newItem = ItemController.addItem(input.name, input.calories);
+        }
+    };
+
+    const loadEventListeners = function () {
+        const UISelectors = UIController.getUISelectors();
+
+        // add item event
+        document.querySelector(UISelectors.addBtnClass).addEventListener(
+            'click',
+            addItem
+        );
+    };
+
     return {
         init: function () {
             const items = ItemController.getItems();
             UIController.showItems(items);
+            loadEventListeners();
         }
     };
 })(ItemController, StorageController, UIController);
