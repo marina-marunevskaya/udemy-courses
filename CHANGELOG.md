@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## October 6, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 12: Tracalorie Project (Using The Module Pattern)
+    - Add Item To The UI
+
 ## October 5, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 12: Tracalorie Project (Using The Module Pattern)
