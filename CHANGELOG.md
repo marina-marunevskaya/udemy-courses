@@ -5,8 +5,10 @@
   - Section 12: Tracalorie Project (Using The Module Pattern)
     - Add Total Calories
     - Working With The Edit State
+    - Updating Items & Total Calories
 - Logic to update and display total calories was added.
 - Edit state base logic was added.
+- Edit logic was fully implemented.
 
 ## October 6, 2020
 - Modern JavaScript From The Beginning (Udemy)

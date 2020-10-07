@@ -65,6 +65,14 @@ const ItemController = (function () {
         },
         getCurrentItem: function () {
             return data.currentItem;
+        },
+        updateItem: function (name, calories) {
+            calories = parseInt(calories);
+
+            data.currentItem.name = name;
+            data.currentItem.calories = calories;
+
+            return data.currentItem;
         }
     };
 })();
@@ -132,6 +140,15 @@ const UIController = (function () {
             document.getElementById(UISelectors.nameInputID).value = '';
             document.getElementById(UISelectors.caloriesInputID).value = '';
         },
+        updateItem: function (item) {
+            const li = document.getElementById(`item-${item.id}`);
+            li.innerHTML = `
+                <strong>${item.name}: </strong> <em>${item.calories} Calories</em>
+                <a href="#" class="secondary-content">
+                    <span class="edit-item fa fa-pencil"></span>
+                </a>
+            `;
+        },
         hideList: function () {
             if (!hidden) {
                 hidden = true;
@@ -173,20 +190,25 @@ const AppController = (function (ItemController, StorageController, UIController
     const addItem = function (event) {
         event.preventDefault();
 
-        const input = UIController.getItemInput();
+        const currentItem = ItemController.getCurrentItem();
 
-        if (input.name && input.calories) {
-            const newItem = ItemController.addItem(input.name, input.calories);
-            UIController.addItem(newItem);
-
-            const totalCalories = ItemController.getTotalCalories();
-            UIController.updateTotalCalories(totalCalories);
-
-            UIController.clearInput();
+        if (!currentItem) {
+            const input = UIController.getItemInput();
+    
+            if (input.name && input.calories) {
+                const newItem = ItemController.addItem(input.name, input.calories);
+                UIController.addItem(newItem);
+    
+                const totalCalories = ItemController.getTotalCalories();
+                UIController.updateTotalCalories(totalCalories);
+    
+                UIController.clearInput();
+            }
         }
+
     };
 
-    const editItem = function (event) {
+    const itemEditClick = function (event) {
         if (event.target.classList.contains('edit-item')) {
             event.preventDefault();
 
@@ -200,6 +222,29 @@ const AppController = (function (ItemController, StorageController, UIController
         }
     };
 
+    const editItem = function (event) {
+        event.preventDefault();
+
+        const currentItem = ItemController.getCurrentItem();
+
+        if (currentItem) {
+            const input = UIController.getItemInput();
+
+            if (input.name && input.calories) {
+                const updatedItem = ItemController.updateItem(input.name, input.calories);
+        
+                ItemController.setCurrentItem(null);
+        
+                UIController.updateItem(updatedItem);
+        
+                const totalCalories = ItemController.getTotalCalories();
+                UIController.updateTotalCalories(totalCalories);
+        
+                UIController.clearEditState();
+            }
+        }
+    };
+
     const loadEventListeners = function () {
         const UISelectors = UIController.getUISelectors();
 
@@ -209,8 +254,24 @@ const AppController = (function (ItemController, StorageController, UIController
             addItem
         );
 
+        document.addEventListener(
+            'keypress',
+            function (event) {
+                if (event.keyCode === 13 || event.which === 13 || event.key === 13) {
+                    event.preventDefault();
+                    return false;
+                }
+            }
+        );
+
         // edit icon click event
         document.getElementById(UISelectors.itemListID).addEventListener(
+            'click',
+            itemEditClick
+        );
+
+        // update item event
+        document.querySelector(UISelectors.updateBtnClass).addEventListener(
             'click',
             editItem
         );
