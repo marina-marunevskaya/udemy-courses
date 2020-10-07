@@ -33,6 +33,19 @@ const ItemController = (function () {
             data.items.push(newItem);
 
             return newItem;
+        },
+        getTotalCalories: function () {
+            let totalCalories = 0;
+
+            data.items.forEach(
+                item => {
+                    totalCalories += item.calories;
+                }
+            );
+
+            data.totalCalories = totalCalories;
+
+            return totalCalories;
         }
     };
 })();
@@ -48,7 +61,8 @@ const UIController = (function () {
         itemListID: 'item-list',
         addBtnClass: '.add-btn',
         nameInputID: 'itemName',
-        caloriesInputID: 'itemCalories'
+        caloriesInputID: 'itemCalories',
+        totalCaloriesClass: '.total-calories'
     };
 
     let hidden = false;
@@ -101,6 +115,9 @@ const UIController = (function () {
                 hidden = true;
                 document.getElementById(UISelectors.itemListID).style.display = 'none';
             }
+        },
+        updateTotalCalories: function (totalCalories) {
+            document.querySelector(UISelectors.totalCaloriesClass).textContent = totalCalories;
         }
     };
 })();
@@ -115,6 +132,10 @@ const AppController = (function (ItemController, StorageController, UIController
         if (input.name && input.calories) {
             const newItem = ItemController.addItem(input.name, input.calories);
             UIController.addItem(newItem);
+
+            const totalCalories = ItemController.getTotalCalories();
+            UIController.updateTotalCalories(totalCalories);
+
             UIController.clearInput();
         }
     };
@@ -135,6 +156,8 @@ const AppController = (function (ItemController, StorageController, UIController
 
             if (items.length) {
                 UIController.showItems(items);
+                const totalCalories = ItemController.getTotalCalories();
+                UIController.updateTotalCalories(totalCalories);
             } else {
                 UIController.hideList();
             }

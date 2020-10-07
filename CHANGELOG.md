@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## October 7, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 12: Tracalorie Project (Using The Module Pattern)
+    - Add Total Calories
+- Logic to update and display total calories was added.
+
 ## October 6, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 12: Tracalorie Project (Using The Module Pattern)
