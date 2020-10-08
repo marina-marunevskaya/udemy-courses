@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## October 8, 2020
+- Modern JavaScript From The Beginning (Udemy)
+  - Section 12: Tracalorie Project (Using The Module Pattern)
+    - Delete & Clear Items
+- Delete logic and clear logic were added.
+
 ## October 7, 2020
 - Modern JavaScript From The Beginning (Udemy)
   - Section 12: Tracalorie Project (Using The Module Pattern)
